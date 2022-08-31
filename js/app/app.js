@@ -4,7 +4,7 @@ function Run() {
         var id = url.split("id=");
         if (id.length > 1) {
             var view = new MainView();
-            view.Share(id[1]);
+            // view.Share(id[1]);
         }
     }
     else {

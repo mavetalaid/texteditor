@@ -1081,7 +1081,6 @@ var Xplore = /** @class */ (function () {
                 input.value = "";
             }
             this.object.appendChild(input);
-            this.Events();
         };
         ;
         TextEditor.prototype.RefreshValue = function () {
@@ -1093,6 +1092,7 @@ var Xplore = /** @class */ (function () {
             var addcode;
             var replaceval;
             var selectendtext = text.substring(selectionstart, selectend);
+            // let selectendtext = text.slice(0, selectionstart) + "[B]" + text.slice(0, selectend) + "[B]";
             switch (self.buttonclick) {
                 case "bold":
                     addcode = "[B]" + selectendtext + "[B]";
@@ -1130,14 +1130,7 @@ var Xplore = /** @class */ (function () {
                     input.value = replaceval;
                     break;
             }
-        };
-        ;
-        TextEditor.prototype.Events = function () {
-            var input = this.object.querySelector("textarea");
-            var self = this;
-            input.onchange = function () {
-                self.value = this.value;
-            };
+            self.value = input.value;
         };
         ;
         return TextEditor;

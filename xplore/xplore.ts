@@ -1347,8 +1347,6 @@ namespace Xplore {
 
 
             this.object.appendChild(input);
-
-            this.Events();
         };
 
         RefreshValue(): void {
@@ -1364,6 +1362,8 @@ namespace Xplore {
             let replaceval;
 
             let selectendtext = text.substring(selectionstart, selectend);
+
+            // let selectendtext = text.slice(0, selectionstart) + "[B]" + text.slice(0, selectend) + "[B]";
 
             switch (self.buttonclick) {
                 case "bold":
@@ -1402,16 +1402,21 @@ namespace Xplore {
                     input.value = replaceval;
                     break;
             }
+
+            self.value = input.value;
         };
 
-        Events(): void {
-            let input = this.object.querySelector("textarea");
-            let self = this;
+        // Events(): void {
+        //     let input = this.object.querySelector("textarea");
+        //     let self = this;
 
-            input.onchange = function (): any {
-                self.value = (<HTMLInputElement>this).value;
-            };
-        };
+        //     input.onchange = function (): any {
+        //         self.value = (<HTMLInputElement>this).value;
+        //     };
+
+        //     if (self.onchange)
+        //         self.onchange(self);
+        // };
     }
 
     export class TextBlock extends Xplore {
