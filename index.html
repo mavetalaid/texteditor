@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>REGIONAL RESOURCE EFFICIENCY INDICATORS IN THE ASIA PACIFIC</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.png">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;300;500;900&display=swap"
+        rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/materialdesignicons.min.css" />
+    <link rel="stylesheet" href="css/xplore.css" />
+    <link rel="stylesheet" href="css/app.css" />
+
+    <script type="text/javascript" src="js/xplore/xplore.js"></script>
+    <script type="text/javascript" src="js/xplore/xentities.js"></script>
+    <script type="text/javascript" src="js/xplore/xcanvas2d.js"></script>
+    <script type="text/javascript" src="js/xplore/xcanvas2dmodel.js"></script>
+    <script type="text/javascript" src="js/xplore/xcanvas2dgraphics.js"></script>
+    <script type="text/javascript" src="js/xplore/xchart.js"></script>
+
+    <script type="text/javascript" src="external/xlsx.full.min.js"></script>
+
+    <script type="text/javascript" src="js/app/app.js"></script>
+    <script type="text/javascript" src="js/app/mainview.js"></script>
+    <script type="text/javascript" src="js/app/chart.js"></script>
+
+    <script type="text/javascript" src="js/app/categorybase.js"></script>
+    <script type="text/javascript" src="js/app/naturalresources.js"></script>
+    <script type="text/javascript" src="js/app/resourceefficiency.js"></script>
+    <script type="text/javascript" src="js/app/consumption.js"></script>
+    <script type="text/javascript" src="js/app/tradedependency.js"></script>
+    <script type="text/javascript" src="js/app/resourcehumandev.js"></script>
+    <script type="text/javascript" src="js/app/resourceuse.js"></script>
+    <script type="text/javascript" src="js/app/inclusivegreenrecovery.js"></script>
+    <script type="text/javascript" src="js/app/generalcategory.js"></script>
+    <script type="text/javascript" src="js/app/dataviewmore.js"></script>
+    <script type="text/javascript" src="js/app/metadataviewmore.js"></script>
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i%7CPoppins:300,400,500,600,700"
+        rel="stylesheet">
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Font-Awesome -->
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+
+    <!-- Flat icon -->
+    <link href="flaticon/flaticon.css" rel="stylesheet">
+
+    <!-- Swiper -->
+    <link href="css/swiper.min.css" rel="stylesheet">
+
+    <!-- Lightcase -->
+    <link href="css/lightcase.css" rel="stylesheet">
+
+    <!-- quick-view -->
+    <link href="css/quick-view.css" rel="stylesheet">
+
+    <!-- nstSlider -->
+    <link href="css/jquery.nstSlider.css" rel="stylesheet">
+
+    <!-- flexslider -->
+    <link href="css/flexslider.css" rel="stylesheet">
+
+    <!-- banner-bg -->
+    <link href="css/banner-bg.css" rel="stylesheet">
+
+    <!-- Style -->
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/header.css" rel="stylesheet">
+
+
+
+    <!-- Responsive -->
+    <link href="assets/css/responsive.css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="box-layout">
+        <!-- header start here-->
+        <header class="style-2">
+            <div class="menu-fixed bgc-1">
+                <nav class="navbar navbar-expand-lg">
+                    <div class="container">
+                        <a class="navbar-brand" href="index.html"><img src="images/logo.jpg" height="150" width="260"
+                                alt="logo" class="img-responsive"></a>
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                            <div class="main-menu">
+                                <div class="menu-left">
+                                    <ul>
+                                        <li>
+                                            <a href="index.html">Home</a>
+
+                                        </li>
+                                        <li>
+                                            <a href="about.html">About</a>
+
+                                        </li>
+                                        <li>
+                                            <a href="#">Categories</a>
+                                            <ul>                                        
+                                                <!-- <li><a href="#" onClick={this.ShowCategory1}>Natural resources</a></li> -->
+                                                <li><a href="#" id="shownaturalresources">Natural resources</a></li>
+                                                <li><a href="#" id="showtrade">Trade dependency</a></li>
+                                                <li><a href="#" id="showresourceefficiency">Resource efficiency</a></li>
+                                                <li><a href="#" id="showresourceuse">Resource use in major sectors</a></li>
+                                                <li><a href="#" id="showconsumption">Consumption-based indicators for natural resource use</a></li>
+                                                <li><a href="#" id="showhuman">Resources and human development</a></li>
+                                                <li><a href="#" id="showgreen">Inclusive green recovery</a></li>
+                                            </ul>
+
+                                        </li>
+                                        <li>
+                                            <a href="./guide.html">Guide</a>
+                                            <ul>
+                                                <li><a href="./guide.html">Features for User</a></li>
+                                                <li><a href="./guide.html">API for Developer</a></li>
+                                            </ul>
+                                        </li>
+
+
+                                        <li>
+                                            <a href="contact.html">Contact</a>
+
+                                        </li>
+                                    </ul>
+                                </div>
+                                <!-- <div class="menu-right">
+                                    <ul class="header-cart-ticket-option">
+
+                                        <li><a href="https://forms.gle/Kpy1UhMRU11kzdff6" target="_blank"
+                                                class="menu-button">Login as Admin</a></li>
+                                    </ul>
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </header>
+        <!-- header end here -->
+        <section>
+            <div id="header">
+                <h1 class="btext">Regional Resource Efficiency Indicators In The Asia Pacific</h1>
+                <img src="./images/banner.png" height="150px" />
+
+            </div>
+        </section>
+        <!-- </div> -->
+        <section>
+            <div class="container">
+
+                <!-- <div id="banner">
+        </div> -->
+                <div id="search" class="categories">
+                </div>
+                <div id="category" class="categories">
+                </div>
+                <div id="indicator" class="categories">
+                </div>
+                <div id="visualization" class="categories">
+                </div>
+
+                <!-- Implemented by logo -->
+                <section class="sponsor style-11">
+                    <div class="container">
+                        <div class="row">
+                            <div class="section-wrapper">
+                                <div class="sponsor-item">
+                                    <!-- <h6>Implemented By</h6> -->
+                                    <div class="sponsor-inner">
+                                        <a href="#"><img src="images/UNEP-logo.jpg" alt="sopnsor"></a>
+                                    </div>
+                                </div>
+                                <div class="sponsor-item">
+                                    <div class="sponsor-inner">
+                                        <a href="#"><img src="images/AIT-logo.jpg" alt="sopnsor"></a>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+    </div>
+
+
+
+    <!-- Footer Start here -->
+    <footer>
+        <div class="overlay">
+            <div class="container">
+                <p>Copyright &copy; 2022. <a href="#">Regional Resource Efficiency Indicators In The Asia
+                        Pacific</a>.
+                    All
+                    Rights
+                    Reserved.</p>
+            </div>
+        </div>
+    </footer>
+    <!-- Footer End here -->
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,778 @@
+{
+    "country": "Asia-Pacific Developing",
+    "type": "remiasiapacificworld",
+    "indicator": "Material Intensity of the economy",
+    "y2010": "3.85135218700445",
+    "y2011": "3.47871295757551",
+    "y2012": "3.28951898213305",
+    "y2013": "3.12729831800489",
+    "y2014": "2.94818840970608",
+    "y2015": "2.91538081431182",
+    "y2016": "2.93287824453025",
+    "y2017": "2.75814901944056"
+}
+
+
+{
+    "country": "Asia-Pacific Industrial",
+    "type": "remiasiapacificworld",
+    "indicator": "Material Intensity of the economy",
+    "y2010": "0.361901675245656",
+    "y2011": "0.327546680516455",
+    "y2012": "0.317718748824796",
+    "y2013": "0.347576397565899",
+    "y2014": "0.356908618386902",
+    "y2015": "0.393374427885897",
+    "y2016": "0.369472607848171",
+    "y2017": "0.357049257658122"
+}
+
+{
+    "country": "Rest of the world",
+    "type": "remiasiapacificworld",
+    "indicator": "Material Intensity of the economy",
+    "y2010": "0.729257179099016",
+    "y2011": "0.680975440959479",
+    "y2012": "0.676671407378649",
+    "y2013": "0.66960292102815",
+    "y2014": "0.666363734346033",
+    "y2015": "0.732314395959133",
+    "y2016": "0.74132922529962",
+    "y2017": "0.709887768252174"
+}
+
+{
+    "country": "The World",
+    "type": "remiasiapacificworld",
+    "indicator": "Material Intensity of the economy",
+    "y2010": "1.15253314888442",
+    "y2011": "1.09044831341279",
+    "y2012": "1.08531527638478",
+    "y2013": "1.08705478390436",
+    "y2014": "1.07499843391964",
+    "y2015": "1.16083195327885",
+    "y2016": "1.17261226768651",
+    "y2017": "1.1297658587483"
+}
+
+{
+    "country": "Asia-Pacific Developing",
+    "type": "remiasiapacificdeveloping",
+    "indicator": "Material Intensity of the economy",
+    "y2010": "3.85135218700445",    
+    "y2017": "2.75814901944056"
+}
+
+{
+    "country": "Viet Nam",
+    "type": "remiasiapacificdeveloping",
+    "indicator": "Material Intensity of the economy",
+    "y2010": "9.41282637085886",    
+    "y2017": "6.25929517732765"
+}
+
+{
+    "country": "Thailand",
+    "type": "remiasiapacificdeveloping",
+    "indicator": "Material Intensity of the economy",
+    "y2010": "2.01258694276766",    
+    "y2017": "1.9262837473749"
+}
+
+{
+    "country": "Sri Lanka",
+    "type": "remiasiapacificdeveloping",
+    "indicator": "Material Intensity of the economy",
+    "y2010": "1.37450095978446",    
+    "y2017": "1.33552294080848"
+}
+
+{
+    "country": "Philippines",
+    "type": "remiasiapacificdeveloping",
+    "indicator": "Material Intensity of the economy",
+    "y2010": "1.84806558925769",    
+    "y2017": "1.26810806688188"
+}
+
+{
+    "country": "Pakistan",
+    "type": "remiasiapacificdeveloping",
+    "indicator": "Material Intensity of the economy",
+    "y2010": "3.74770182920171",    
+    "y2017": "2.87561792573925"
+}
+
+{
+    "country": "Nepal",
+    "type": "remiasiapacificdeveloping",
+    "indicator": "Material Intensity of the economy",
+    "y2010": "5.79813540645111",    
+    "y2017": "3.94773719379364"
+}
+
+{
+    "country": "Myanmar",
+    "type": "remiasiapacificdeveloping",
+    "indicator": "Material Intensity of the economy",
+    "y2010": "3.29825179873249",    
+    "y2017": "2.79437736276467"
+}
+
+{
+    "country": "Mongolia",
+    "type": "remiasiapacificdeveloping",
+    "indicator": "Material Intensity of the economy",
+    "y2010": "9.11095024271057",    
+    "y2017": "9.29664384990062"
+}
+
+{
+    "country": "Maldives",
+    "type": "remiasiapacificdeveloping",
+    "indicator": "Material Intensity of the economy",
+    "y2010": "0.862791329807594",    
+    "y2017": "0.627874290585439"
+}
+
+{
+    "country": "Malaysia",
+    "type": "remiasiapacificdeveloping",
+    "indicator": "Material Intensity of the economy",
+    "y2010": "2.03741313243463",    
+    "y2017": "1.90982418110952"
+}
+
+{
+    "country": "Lao PDR",
+    "type": "remiasiapacificdeveloping",
+    "indicator": "Material Intensity of the economy",
+    "y2010": "7.34618966223541",    
+    "y2017": "4.87982238929145"
+}
+
+{
+    "country": "Indonesia",
+    "type": "remiasiapacificdeveloping",
+    "indicator": "Material Intensity of the economy",
+    "y2010": "2.42138660774554",    
+    "y2017": "1.94382104409822"
+}
+
+{
+    "country": "India",
+    "type": "remiasiapacificdeveloping",
+    "indicator": "Material Intensity of the economy",
+    "y2010": "3.45772446495509",    
+    "y2017": "2.79740151420758"
+}
+
+{
+    "country": "China",
+    "type": "remiasiapacificdeveloping",
+    "indicator": "Material Intensity of the economy",
+    "y2010": "4.30133728114631",    
+    "y2017": "2.8588868963895"
+}
+
+{
+    "country": "Cambodia",
+    "type": "remiasiapacificdeveloping",
+    "indicator": "Material Intensity of the economy",
+    "y2010": "7.73299302155143",    
+    "y2017": "3.82044044899752"
+}
+
+{
+    "country": "Bhutan",
+    "type": "remiasiapacificdeveloping",
+    "indicator": "Material Intensity of the economy",
+    "y2010": "3.8920331339561",    
+    "y2017": "3.41609011135445"
+}
+
+{
+    "country": "Bangladesh",
+    "type": "remiasiapacificdeveloping",
+    "indicator": "Material Intensity of the economy",
+    "y2010": "3.1705921578029",    
+    "y2017": "1.7550558307923"
+}
+
+{
+    "country": "Afghanistan",
+    "type": "remiasiapacificdeveloping",
+    "indicator": "Material Intensity of the economy",
+    "y2010": "3.76644310524259",    
+    "y2017": "3.59644348513444"
+}
+
+{
+    "country": "The World",
+    "type": "remiasiapacificindustry",
+    "indicator": "Material Intensity of the economy",
+    "y2010": "1.15",    
+    "y2017": "1.13"
+}
+
+{
+    "country": "Rest of the world",
+    "type": "remiasiapacificindustry",
+    "indicator": "Material Intensity of the economy",
+    "y2010": "0.73",    
+    "y2017": "0.71"
+}
+
+{
+    "country": "Asia-Pacific Industrial",
+    "type": "remiasiapacificindustry",
+    "indicator": "Material Intensity of the economy",
+    "y2010": "0.36",    
+    "y2017": "0.36"
+}
+
+{
+    "country": "Asia-Pacific Developing",
+    "type": "remiasiapacificindustry",
+    "indicator": "Material Intensity of the economy",
+    "y2010": "3.85",    
+    "y2017": "2.76"
+}
+
+{
+    "country": "Singapore",
+    "type": "remiasiapacificindustry",
+    "indicator": "Material Intensity of the economy",
+    "y2010": "0.63",    
+    "y2017": "0.54"
+}
+
+{
+    "country": "Republic of Korea",
+    "type": "remiasiapacificindustry",
+    "indicator": "Material Intensity of the economy",
+    "y2010": "7.86",    
+    "y2017": "5.31"
+}
+
+{
+    "country": "New Zealand",
+    "type": "remiasiapacificindustry",
+    "indicator": "Material Intensity of the economy",
+    "y2010": "0.06",    
+    "y2017": "0.05"
+}
+
+{
+    "country": "Japan",
+    "type": "remiasiapacificindustry",
+    "indicator": "Material Intensity of the economy",
+    "y2010": "0.22",    
+    "y2017": "0.23"
+}
+
+{
+    "country": "Australia",
+    "type": "remiasiapacificindustry",
+    "indicator": "Material Intensity of the economy",
+    "y2010": "0.78",    
+    "y2017": "0.70"
+}
+
+{
+    "country": "World",
+    "type": "eigdpasiapacificworld",
+    "indicator": "Material Intensity of the economy",
+    "y1990": "0.24",    
+    "y1995": "0.23",
+    "y2000": "0.21",    
+    "y2005": "0.2",
+    "y2010": "0.2",    
+    "y2015": "0.26",
+    "y2018": "0.17"   
+}
+
+{
+    "country": "Asia and the Pacific",
+    "type": "eigdpasiapacificworld",
+    "indicator": "Material Intensity of the economy",
+    "y1990": "0.3",    
+    "y1995": "0.29",
+    "y2000": "0.27",    
+    "y2005": "0.27",
+    "y2010": "0.26",    
+    "y2015": "0.23",
+    "y2018": "0.21"   
+}
+
+
+{
+    "country": "Afghanistan",
+    "type": "eiasiapacificdeveloping",
+    "indicator": "Energy intensity of the economy",
+    "y2010": "",
+    "y2015": "",
+    "y2018": ""
+}
+
+{
+    "country": "Bangladesh",
+    "type": "eiasiapacificdeveloping",
+    "indicator": "Energy intensity of the economy",
+    "y2010": "0.21",
+    "y2015": "0.2",
+    "y2018": "0.17"
+}
+
+{
+    "country": "Bhutan",
+    "type": "eiasiapacificdeveloping",
+    "indicator": "Energy intensity of the economy",
+    "y2010": "",
+    "y2015": "",
+    "y2018": ""
+}
+
+{
+    "country": "Cambodia",
+    "type": "eiasiapacificdeveloping",
+    "indicator": "Energy intensity of the economy",
+    "y2010": "0.42",
+    "y2015": "0.39",
+    "y2018": "0.37"
+}
+
+{
+    "country": "China",
+    "type": "eiasiapacificdeveloping",
+    "indicator": "Energy intensity of the economy",
+    "y2010": "0.33",
+    "y2015": "0.27",
+    "y2018": "0.23"
+}
+
+{
+    "country": "India",
+    "type": "eiasiapacificdeveloping",
+    "indicator": "Energy intensity of the economy",
+    "y2010": "0.46",
+    "y2015": "0.4",
+    "y2018": "0.35"
+}
+
+{
+    "country": "Indonesia",
+    "type": "eiasiapacificdeveloping",
+    "indicator": "Energy intensity of the economy",
+    "y2010": "0.31",
+    "y2015": "0.24",
+    "y2018": "0.23"
+}
+
+{
+    "country": "Lao PDR",
+    "type": "eiasiapacificdeveloping",
+    "indicator": "Energy intensity of the economy",
+    "y2010": "0.27",
+    "y2015": "0.28",
+    "y2018": "0.33"
+}
+
+{
+    "country": "Malaysia",
+    "type": "eiasiapacificdeveloping",
+    "indicator": "Energy intensity of the economy",
+    "y2010": "0.31",
+    "y2015": "0.28",
+    "y2018": "0.27"
+}
+
+{
+    "country": "Maldives",
+    "type": "eiasiapacificdeveloping",
+    "indicator": "Energy intensity of the economy",
+    "y2010": "",
+    "y2015": "",
+    "y2018": ""
+}
+
+{
+    "country": "Mongolia",
+    "type": "eiasiapacificdeveloping",
+    "indicator": "Energy intensity of the economy",
+    "y2010": "0.55",
+    "y2015": "0.4",
+    "y2018": "0.43"
+}
+
+{
+    "country": "Myanmar",
+    "type": "eiasiapacificdeveloping",
+    "indicator": "Energy intensity of the economy",
+    "y2010": "0.33",
+    "y2015": "0.31",
+    "y2018": "0.33"
+}
+
+{
+    "country": "Nepal",
+    "type": "eiasiapacificdeveloping",
+    "indicator": "Energy intensity of the economy",
+    "y2010": "0.59",
+    "y2015": "0.55",
+    "y2018": "0.56"
+}
+
+{
+    "country": "Pakistan",
+    "type": "eiasiapacificdeveloping",
+    "indicator": "Energy intensity of the economy",
+    "y2010": "0.38",
+    "y2015": "0.35",
+    "y2018": "0.35"
+}
+
+{
+    "country": "Philippines",
+    "type": "eiasiapacificdeveloping",
+    "indicator": "Energy intensity of the economy",
+    "y2010": "0.18",
+    "y2015": "0.18",
+    "y2018": "0.17"
+}
+
+{
+    "country": "Sri Lanka",
+    "type": "eiasiapacificdeveloping",
+    "indicator": "Energy intensity of the economy",
+    "y2010": "0.16",
+    "y2015": "0.14",
+    "y2018": "0.13"
+}
+
+{
+    "country": "Thailand",
+    "type": "eiasiapacificdeveloping",
+    "indicator": "Energy intensity of the economy",
+    "y2010": "0.34",
+    "y2015": "0.34",
+    "y2018": "0.3"
+}
+
+{
+    "country": "Vietnam",
+    "type": "eiasiapacificdeveloping",
+    "indicator": "Energy intensity of the economy",
+    "y2010": "0.4",
+    "y2015": "0.38",
+    "y2018": "0.36"
+}
+
+{
+    "country": "Afghanistan",
+    "type": "co2asiapacific",
+    "indicator": "GHG intensity of the economy",
+    "y2010": "",
+    "y2015": "",
+    "y2018": ""
+}
+
+{
+    "country": "Bangladesh",
+    "type": "co2asiapacific",
+    "indicator": "GHG intensity of the economy",
+    "y2010": "1.66",
+    "y2015": "1.86",
+    "y2018": "1.96"
+}
+
+{
+    "country": "Bhutan",
+    "type": "co2asiapacific",
+    "indicator": "GHG intensity of the economy",
+    "y2010": "",
+    "y2015": "",
+    "y2018": ""
+}
+
+{
+    "country": "Cambodia",
+    "type": "co2asiapacific",
+    "indicator": "GHG intensity of the economy",
+    "y2010": "0.87",
+    "y2015": "1.14",
+    "y2018": "1.29"
+}
+
+{
+    "country": "China",
+    "type": "co2asiapacific",
+    "indicator": "GHG intensity of the economy",
+    "y2010": "3.09",
+    "y2015": "3.04",
+    "y2018": "2.98"
+}
+
+{
+    "country": "India",
+    "type": "co2asiapacific",
+    "indicator": "GHG intensity of the economy",
+    "y2010": "2.24",
+    "y2015": "2.44",
+    "y2018": "2.51"
+}
+
+{
+    "country": "Indonesia",
+    "type": "co2asiapacific",
+    "indicator": "GHG intensity of the economy",
+    "y2010": "1.94",
+    "y2015": "2.22",
+    "y2018": "2.35"
+}
+
+{
+    "country": "Lao PDR",
+    "type": "co2asiapacific",
+    "indicator": "GHG intensity of the economy",
+    "y2010": "0.9",
+    "y2015": "1.88",
+    "y2018": "3.1"
+}
+
+{
+    "country": "Malaysia",
+    "type": "co2asiapacific",
+    "indicator": "GHG intensity of the economy",
+    "y2010": "2.62",
+    "y2015": "2.61",
+    "y2018": "2.44"
+}
+
+{
+    "country": "Maldives",
+    "type": "co2asiapacific",
+    "indicator": "GHG intensity of the economy",
+    "y2010": "",
+    "y2015": "",
+    "y2018": ""
+}
+
+{
+    "country": "Mongolia",
+    "type": "co2asiapacific",
+    "indicator": "GHG intensity of the economy",
+    "y2010": "3.58",
+    "y2015": "3.68",
+    "y2018": "3.67"
+}
+
+{
+    "country": "Myanmar",
+    "type": "co2asiapacific",
+    "indicator": "GHG intensity of the economy",
+    "y2010": "0.57",
+    "y2015": "1.01",
+    "y2018": "1.32"
+}
+
+{
+    "country": "Nepal",
+    "type": "co2asiapacific",
+    "indicator": "GHG intensity of the economy",
+    "y2010": "0.4",
+    "y2015": "0.49",
+    "y2018": "0.8"
+}
+
+{
+    "country": "Pakistan",
+    "type": "co2asiapacific",
+    "indicator": "GHG intensity of the economy",
+    "y2010": "1.51",
+    "y2015": "1.57",
+    "y2018": "1.74"
+}
+
+{
+    "country": "Philippines",
+    "type": "co2asiapacific",
+    "indicator": "GHG intensity of the economy",
+    "y2010": "1.91",
+    "y2015": "2.02",
+    "y2018": "2.2"
+}
+
+{
+    "country": "Sri Lanka",
+    "type": "co2asiapacific",
+    "indicator": "GHG intensity of the economy",
+    "y2010": "1.27",
+    "y2015": "1.68",
+    "y2018": "1.76"
+}
+
+{
+    "country": "Thailand",
+    "type": "co2asiapacific",
+    "indicator": "GHG intensity of the economy",
+    "y2010": "1.9",
+    "y2015": "1.82",
+    "y2018": "1.77"
+}
+
+{
+    "country": "Vietnam",
+    "type": "co2asiapacific",
+    "indicator": "GHG intensity of the economy",
+    "y2010": "2.16",
+    "y2015": "2.5",
+    "y2018": "2.71"
+}
+
+{
+    "country": "Afghanistan",
+    "type": "waterintensityasiapacific",
+    "indicator": "Water intensity of the economy",
+    "y2010": "1386.006769487418",
+    "y2017": "1093.954402963547"    
+}
+
+{
+    "country": "Bangladesh",
+    "type": "waterintensityasiapacific",
+	"indicator": "Water intensity of the economy",
+    "y2010": "313.25266605336793",
+    "y2017": "146.03092449474343"    
+}
+
+{
+    "country": "Bhutan",
+    "type": "waterintensityasiapacific",
+    "indicator": "Water intensity of the economy",
+    "y2010": "213.18751811679985",
+    "y2017": "137.9390560568228"    
+}
+
+{
+    "country": "Cambodia",
+    "type": "waterintensityasiapacific",
+    "indicator": "Water intensity of the economy",
+    "y2010": "194.26745385665416",
+    "y2017": "98.47954039232502"    
+}
+
+{
+    "country": "China",
+    "type": "waterintensityasiapacific",
+    "indicator": "Water intensity of the economy",
+    "y2010": "97.00688891351668",
+    "y2017": "48.584555466085604"    
+}
+
+{
+    "country": "India",
+    "type": "waterintensityasiapacific",
+    "indicator": "Water intensity of the economy",
+    "y2010": "444.96712540097735",
+    "y2017": "289.8384782534591"    
+}
+
+{
+    "country": "Indonesia",
+    "type": "waterintensityasiapacific",
+    "indicator": "Water intensity of the economy",
+    "y2010": "257.3659855638072",
+    "y2017": "219.2110830272019"    
+}
+
+{
+    "country": "Lao PDR",
+    "type": "waterintensityasiapacific",
+    "indicator": "Water intensity of the economy",
+    "y2010": "787.3147817533002",
+    "y2017": "428.79363841491863"    
+}
+
+{
+    "country": "Malaysia",
+    "type": "waterintensityasiapacific",
+    "indicator": "Water intensity of the economy",
+    "y2010": "21.520090406702252",
+    "y2017": "17.19787801495252"    
+}
+
+{
+    "country": "Maldives",
+    "type": "waterintensityasiapacific",
+    "indicator": "Water intensity of the economy",
+    "y2010": "2.2612244484185866",
+    "y2017": "1.2410088540428748"    
+}
+
+{
+    "country": "Mongolia",
+    "type": "waterintensityasiapacific",
+    "indicator": "Water intensity of the economy",
+    "y2010": "71.16597424249447",
+    "y2017": "40.46991252468379"    
+}
+
+{
+    "country": "Myanmar",
+    "type": "waterintensityasiapacific",
+    "indicator": "Water intensity of the economy",
+    "y2010": "744.5540635122256",
+    "y2017": "490.60139426689335"    
+}
+
+{
+    "country": "Nepal",
+    "type": "waterintensityasiapacific",
+    "indicator": "Water intensity of the economy",
+    "y2010": "583.3290764486906",
+    "y2017": "371.1203837267089"    
+}
+
+{
+    "country": "Pakistan",
+    "type": "waterintensityasiapacific",
+    "indicator": "Water intensity of the economy",
+    "y2010": "1047.7919395486979",
+    "y2017": "606.026844908265"    
+}
+
+{
+    "country": "Philippines",
+    "type": "waterintensityasiapacific",
+    "indicator": "Water intensity of the economy",
+    "y2010": "416.5877579819676",
+    "y2017": "295.7375041604536"    
+}
+
+{
+    "country": "Sri Lanka",
+    "type": "waterintensityasiapacific",
+    "indicator": "Water intensity of the economy",
+    "y2010": "228.22074744085825",
+    "y2017": "148.07577435541813"    
+}
+
+{
+    "country": "Thailand",
+    "type": "waterintensityasiapacific",
+    "indicator": "Water intensity of the economy",
+    "y2010": "168.0011447415138",
+    "y2017": "125.87108114992624"    
+}
+
+{
+    "country": "Viet Nam",
+    "type": "waterintensityasiapacific",
+    "indicator": "Water intensity of the economy",
+    "y2010": "707.5718696706667",
+    "y2017": "366.56585841002595"    
+}
+
+
+

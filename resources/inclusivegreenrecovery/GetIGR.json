@@ -1,0 +1,996 @@
+/* 1 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da2a"),
+    "country" : "Afghanistan",
+    "type" : "igrCovid",
+    "indicator" : "COVID spending",
+    "additional_spending_or_foregone_revenues" : "2.1",
+    "equity_loans_and_guarantees" : ""
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da2d"),
+    "country" : "Bangladesh",
+    "type" : "igrCovid",
+    "indicator" : "COVID spending",
+    "additional_spending_or_foregone_revenues" : "1.40787068066479",
+    "equity_loans_and_guarantees" : "0.072073015476378"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da30"),
+    "country" : "Bhutan",
+    "type" : "igrCovid",
+    "indicator" : "COVID spending",
+    "additional_spending_or_foregone_revenues" : "",
+    "equity_loans_and_guarantees" : ""
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da33"),
+    "country" : "Cambodia",
+    "type" : "igrCovid",
+    "indicator" : "COVID spending",
+    "additional_spending_or_foregone_revenues" : "4.09561698757669",
+    "equity_loans_and_guarantees" : "2.28195895669656"
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da36"),
+    "country" : "China",
+    "type" : "igrCovid",
+    "indicator" : "COVID spending",
+    "additional_spending_or_foregone_revenues" : "4.78011565462534",
+    "equity_loans_and_guarantees" : "1.2964016763156"
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da39"),
+    "country" : "India",
+    "type" : "igrCovid",
+    "indicator" : "COVID spending",
+    "additional_spending_or_foregone_revenues" : "3.50799947532801",
+    "equity_loans_and_guarantees" : "5.21177554370148"
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da3c"),
+    "country" : "Indonesia",
+    "type" : "igrCovid",
+    "indicator" : "COVID spending",
+    "additional_spending_or_foregone_revenues" : "4.53215705705318",
+    "equity_loans_and_guarantees" : "0.87565550573372"
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da3f"),
+    "country" : "Lao PDR",
+    "type" : "igrCovid",
+    "indicator" : "COVID spending",
+    "additional_spending_or_foregone_revenues" : "0.0173657773542566",
+    "equity_loans_and_guarantees" : ""
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da42"),
+    "country" : "Malaysia",
+    "type" : "igrCovid",
+    "indicator" : "COVID spending",
+    "additional_spending_or_foregone_revenues" : "5.23081592963458",
+    "equity_loans_and_guarantees" : "3.52956540461173"
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da45"),
+    "country" : "Maldives",
+    "type" : "igrCovid",
+    "indicator" : "COVID spending",
+    "additional_spending_or_foregone_revenues" : "6.89708111898927",
+    "equity_loans_and_guarantees" : ""
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da48"),
+    "country" : "Mongolia",
+    "type" : "igrCovid",
+    "indicator" : "COVID spending",
+    "additional_spending_or_foregone_revenues" : "7.87476779290646",
+    "equity_loans_and_guarantees" : "6.75973487390676"
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da4b"),
+    "country" : "Myanmar",
+    "type" : "igrCovid",
+    "indicator" : "COVID spending",
+    "additional_spending_or_foregone_revenues" : "0.722812741092793",
+    "equity_loans_and_guarantees" : "0.260629594144036"
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da4e"),
+    "country" : "Nepal",
+    "type" : "igrCovid",
+    "indicator" : "COVID spending",
+    "additional_spending_or_foregone_revenues" : "",
+    "equity_loans_and_guarantees" : ""
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da51"),
+    "country" : "Pakistan",
+    "type" : "igrCovid",
+    "indicator" : "COVID spending",
+    "additional_spending_or_foregone_revenues" : "1.99247642825788",
+    "equity_loans_and_guarantees" : ""
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da54"),
+    "country" : "Philippines",
+    "type" : "igrCovid",
+    "indicator" : "COVID spending",
+    "additional_spending_or_foregone_revenues" : "2.71314614353062",
+    "equity_loans_and_guarantees" : "0.915902838261927"
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da57"),
+    "country" : "Sri Lanka",
+    "type" : "igrCovid",
+    "indicator" : "COVID spending",
+    "additional_spending_or_foregone_revenues" : "0.8",
+    "equity_loans_and_guarantees" : ""
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da5a"),
+    "country" : "Thailand",
+    "type" : "igrCovid",
+    "indicator" : "COVID spending",
+    "additional_spending_or_foregone_revenues" : "11.4025187208336",
+    "equity_loans_and_guarantees" : "4.23613125662254"
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da5d"),
+    "country" : "Vietnam",
+    "type" : "igrCovid",
+    "indicator" : "COVID spending",
+    "additional_spending_or_foregone_revenues" : "1.6788172566899",
+    "equity_loans_and_guarantees" : "0.480275959905264"
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da60"),
+    "country" : "BGD",
+    "type" : "igrNaturalCapital",
+    "indicator" : "Natural capital",
+    "y2005" : "1229.09206607599",
+    "y2010" : "2047.78446603323",
+    "y2014" : "2234.05057673825"
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da63"),
+    "country" : "KHM",
+    "type" : "igrNaturalCapital",
+    "indicator" : "Natural capital",
+    "y2005" : "2936.8628783402",
+    "y2010" : "5420.58784606472",
+    "y2014" : "7700.29987833863"
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da66"),
+    "country" : "CHN",
+    "type" : "igrNaturalCapital",
+    "indicator" : "Natural capital",
+    "y2005" : "8448.69853317569",
+    "y2010" : "13238.5154886076",
+    "y2014" : "15133.1697714633"
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da69"),
+    "country" : "IND",
+    "type" : "igrNaturalCapital",
+    "indicator" : "Natural capital",
+    "y2005" : "2776.27748898516",
+    "y2010" : "4070.76860044468",
+    "y2014" : "4738.80843367556"
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da6c"),
+    "country" : "IDN",
+    "type" : "igrNaturalCapital",
+    "indicator" : "Natural capital",
+    "y2005" : "6755.82003287805",
+    "y2010" : "8472.16152419687",
+    "y2014" : "9442.74573571808"
+}
+
+/* 24 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da6f"),
+    "country" : "LAO",
+    "type" : "igrNaturalCapital",
+    "indicator" : "Natural capital",
+    "y2005" : "16250.3332605722",
+    "y2010" : "19233.423956907",
+    "y2014" : "22590.0006816352"
+}
+
+/* 25 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da72"),
+    "country" : "MYS",
+    "type" : "igrNaturalCapital",
+    "indicator" : "Natural capital",
+    "y2005" : "23251.0112236835",
+    "y2010" : "29964.7491079611",
+    "y2014" : "28657.3104925168"
+}
+
+/* 26 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da75"),
+    "country" : "MNG",
+    "type" : "igrNaturalCapital",
+    "indicator" : "Natural capital",
+    "y2005" : "35389.7282203171",
+    "y2010" : "44308.4373016821",
+    "y2014" : "50046.5659854202"
+}
+
+/* 27 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da78"),
+    "country" : "MDV",
+    "type" : "igrNaturalCapital",
+    "indicator" : "Natural capital",
+    "y2005" : "497.798648576018",
+    "y2010" : "445.91190422406",
+    "y2014" : "400.842865011853"
+}
+
+/* 28 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da7b"),
+    "country" : "NPL",
+    "type" : "igrNaturalCapital",
+    "indicator" : "Natural capital",
+    "y2005" : "5880.92764774721",
+    "y2010" : "7281.50585977887",
+    "y2014" : "5544.52367295078"
+}
+
+/* 29 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da7e"),
+    "country" : "PAK",
+    "type" : "igrNaturalCapital",
+    "indicator" : "Natural capital",
+    "y2005" : "5193.46709435397",
+    "y2010" : "5518.24421207996",
+    "y2014" : "5982.28983400468"
+}
+
+/* 30 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da81"),
+    "country" : "PHL",
+    "type" : "igrNaturalCapital",
+    "indicator" : "Natural capital",
+    "y2005" : "3389.86582060001",
+    "y2010" : "4748.59486594753",
+    "y2014" : "5644.04007320916"
+}
+
+/* 31 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da84"),
+    "country" : "LKA",
+    "type" : "igrNaturalCapital",
+    "indicator" : "Natural capital",
+    "y2005" : "2846.39678793493",
+    "y2010" : "3131.69516763765",
+    "y2014" : "3247.17681382158"
+}
+
+/* 32 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da87"),
+    "country" : "THA",
+    "type" : "igrNaturalCapital",
+    "indicator" : "Natural capital",
+    "y2005" : "7667.13815681011",
+    "y2010" : "8674.65096440621",
+    "y2014" : "10144.1859587223"
+}
+
+/* 33 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da8a"),
+    "country" : "VNM",
+    "type" : "igrNaturalCapital",
+    "indicator" : "Natural capital",
+    "y2005" : "6016.37658205975",
+    "y2010" : "8664.50264990068",
+    "y2014" : "9381.16294007682"
+}
+
+/* 34 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da8d"),
+    "country" : "Afghanistan",
+    "type" : "igrTotalGreenRecovery",
+    "indicator" : "Green spending",
+    "total_spending" : "",
+    "recovery_spending" : "",
+    "green_spending" : ""
+}
+
+/* 35 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da90"),
+    "country" : "Bangladesh",
+    "type" : "igrTotalGreenRecovery",
+    "indicator" : "Green spending",
+    "total_spending" : "52.04",
+    "recovery_spending" : "4.13",
+    "green_spending" : "3.34"
+}
+
+/* 36 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da93"),
+    "country" : "Bhutan",
+    "type" : "igrTotalGreenRecovery",
+    "indicator" : "Green spending",
+    "total_spending" : "",
+    "recovery_spending" : "",
+    "green_spending" : ""
+}
+
+/* 37 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da96"),
+    "country" : "Cambodia",
+    "type" : "igrTotalGreenRecovery",
+    "indicator" : "Green spending",
+    "total_spending" : "",
+    "recovery_spending" : "",
+    "green_spending" : ""
+}
+
+/* 38 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da99"),
+    "country" : "China",
+    "type" : "igrTotalGreenRecovery",
+    "indicator" : "Green spending",
+    "total_spending" : "1439.80",
+    "recovery_spending" : "282.47",
+    "green_spending" : "33.64"
+}
+
+/* 39 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da9c"),
+    "country" : "India",
+    "type" : "igrTotalGreenRecovery",
+    "indicator" : "Green spending",
+    "total_spending" : "346.69",
+    "recovery_spending" : "15.04",
+    "green_spending" : "2.59"
+}
+
+/* 40 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413da9f"),
+    "country" : "Indonesia",
+    "type" : "igrTotalGreenRecovery",
+    "indicator" : "Green spending",
+    "total_spending" : "308.38",
+    "recovery_spending" : "0.55",
+    "green_spending" : ""
+}
+
+/* 41 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413daa2"),
+    "country" : "Lao PDR",
+    "type" : "igrTotalGreenRecovery",
+    "indicator" : "Green spending",
+    "total_spending" : "",
+    "recovery_spending" : "",
+    "green_spending" : ""
+}
+
+/* 42 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413daa5"),
+    "country" : "Malaysia",
+    "type" : "igrTotalGreenRecovery",
+    "indicator" : "Green spending",
+    "total_spending" : "2371.32",
+    "recovery_spending" : "14.52",
+    "green_spending" : ""
+}
+
+/* 43 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413daa8"),
+    "country" : "Maldives",
+    "type" : "igrTotalGreenRecovery",
+    "indicator" : "Green spending",
+    "total_spending" : "",
+    "recovery_spending" : "",
+    "green_spending" : ""
+}
+
+/* 44 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413daab"),
+    "country" : "Mongolia",
+    "type" : "igrTotalGreenRecovery",
+    "indicator" : "Green spending",
+    "total_spending" : "1683.80",
+    "recovery_spending" : "610.07",
+    "green_spending" : "21.35"
+}
+
+/* 45 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413daae"),
+    "country" : "Myanmar",
+    "type" : "igrTotalGreenRecovery",
+    "indicator" : "Green spending",
+    "total_spending" : "",
+    "recovery_spending" : "",
+    "green_spending" : ""
+}
+
+/* 46 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413dab1"),
+    "country" : "Nepal",
+    "type" : "igrTotalGreenRecovery",
+    "indicator" : "Green spending",
+    "total_spending" : "",
+    "recovery_spending" : "",
+    "green_spending" : ""
+}
+
+/* 47 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413dab4"),
+    "country" : "Pakistan",
+    "type" : "igrTotalGreenRecovery",
+    "indicator" : "Green spending",
+    "total_spending" : "124",
+    "recovery_spending" : "12.36",
+    "green_spending" : "1.40"
+}
+
+/* 48 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413dab7"),
+    "country" : "Philippines",
+    "type" : "igrTotalGreenRecovery",
+    "indicator" : "Green spending",
+    "total_spending" : "1422.23",
+    "recovery_spending" : "967.14",
+    "green_spending" : ""
+}
+
+/* 49 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413daba"),
+    "country" : "Sri Lanka",
+    "type" : "igrTotalGreenRecovery",
+    "indicator" : "Green spending",
+    "total_spending" : "",
+    "recovery_spending" : "",
+    "green_spending" : ""
+}
+
+/* 50 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413dabd"),
+    "country" : "Thailand",
+    "type" : "igrTotalGreenRecovery",
+    "indicator" : "Green spending",
+    "total_spending" : "355.44",
+    "recovery_spending" : "11.89",
+    "green_spending" : ""
+}
+
+/* 51 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413dac0"),
+    "country" : "Vietnam",
+    "type" : "igrTotalGreenRecovery",
+    "indicator" : "Green spending",
+    "total_spending" : "279.75",
+    "recovery_spending" : "",
+    "green_spending" : ""
+}
+
+/* 52 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413dac3"),
+    "country" : "South Asia",
+    "type" : "igrGreenEnergySubregion",
+    "indicator" : "Green energy investments",
+    "value" : "36"
+}
+
+/* 53 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413dac6"),
+    "country" : "Southeast Asia",
+    "type" : "igrGreenEnergySubregion",
+    "indicator" : "Green energy investments",
+    "value" : "24"
+}
+
+/* 54 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413dac9"),
+    "country" : "East Asia",
+    "type" : "igrGreenEnergySubregion",
+    "indicator" : "Green energy investments",
+    "value" : "21"
+}
+
+/* 55 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413dacc"),
+    "country" : "Central and West Asia",
+    "type" : "igrGreenEnergySubregion",
+    "indicator" : "Green energy investments",
+    "value" : "15"
+}
+
+/* 56 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413dacf"),
+    "country" : "Regional Projects",
+    "type" : "igrGreenEnergySubregion",
+    "indicator" : "Green energy investments",
+    "value" : "3"
+}
+
+/* 57 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413dad2"),
+    "country" : "Pacific",
+    "type" : "igrGreenEnergySubregion",
+    "indicator" : "Green energy investments",
+    "value" : "1"
+}
+
+/* 58 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413dad5"),
+    "country" : "Bangladesh",
+    "type" : "igrGreenEnergyCountry",
+    "indicator" : "Green energy investments",
+    "value" : "7"
+}
+
+/* 59 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413dad8"),
+    "country" : "China",
+    "type" : "igrGreenEnergyCountry",
+    "indicator" : "Green energy investments",
+    "value" : "21"
+}
+
+/* 60 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413dadb"),
+    "country" : "India",
+    "type" : "igrGreenEnergyCountry",
+    "indicator" : "Green energy investments",
+    "value" : "24"
+}
+
+/* 61 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413dade"),
+    "country" : "Indonesia",
+    "type" : "igrGreenEnergyCountry",
+    "indicator" : "Green energy investments",
+    "value" : "8"
+}
+
+/* 62 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413dae1"),
+    "country" : "Lao PDR",
+    "type" : "igrGreenEnergyCountry",
+    "indicator" : "Green energy investments",
+    "value" : "4"
+}
+
+/* 63 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413dae4"),
+    "country" : "Nepal",
+    "type" : "igrGreenEnergyCountry",
+    "indicator" : "Green energy investments",
+    "value" : "2"
+}
+
+/* 64 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413dae7"),
+    "country" : "Pakistan",
+    "type" : "igrGreenEnergyCountry",
+    "indicator" : "Green energy investments",
+    "value" : "6"
+}
+
+/* 65 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413daea"),
+    "country" : "Philippines",
+    "type" : "igrGreenEnergyCountry",
+    "indicator" : "Green energy investments",
+    "value" : "2"
+}
+
+/* 66 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413daed"),
+    "country" : "Sri Lanka",
+    "type" : "igrGreenEnergyCountry",
+    "indicator" : "Green energy investments",
+    "value" : "2"
+}
+
+/* 67 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413daf0"),
+    "country" : "Thailand",
+    "type" : "igrGreenEnergyCountry",
+    "indicator" : "Green energy investments",
+    "value" : "5"
+}
+
+/* 68 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413daf3"),
+    "country" : "Vietnam",
+    "type" : "igrGreenEnergyCountry",
+    "indicator" : "Green energy investments",
+    "value" : "4"
+}
+
+/* 69 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413daf6"),
+    "country" : "Others",
+    "type" : "igrGreenEnergyCountry",
+    "indicator" : "Green energy investments",
+    "value" : "15"
+}
+
+/* 70 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413daf9"),
+    "country" : "China",
+    "type" : "igrElectric",
+    "indicator" : "Green Transport",
+    "y2030_Stated_Policies_Scenario" : "179.7",
+    "y2030_Sustainable_Development_Scenario" : "233.8"
+}
+
+/* 71 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413dafc"),
+    "country" : "Europe",
+    "type" : "igrElectric",
+    "indicator" : "Green Transport",
+    "y2030_Stated_Policies_Scenario" : "113.8",
+    "y2030_Sustainable_Development_Scenario" : "197.1"
+}
+
+/* 72 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413daff"),
+    "country" : "United States",
+    "type" : "igrElectric",
+    "indicator" : "Green Transport",
+    "y2030_Stated_Policies_Scenario" : "91.3",
+    "y2030_Sustainable_Development_Scenario" : "196.8"
+}
+
+/* 73 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413db02"),
+    "country" : "India",
+    "type" : "igrElectric",
+    "indicator" : "Green Transport",
+    "y2030_Stated_Policies_Scenario" : "33.2",
+    "y2030_Sustainable_Development_Scenario" : "42.2"
+}
+
+/* 74 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413db05"),
+    "country" : "Japan",
+    "type" : "igrElectric",
+    "indicator" : "Green Transport",
+    "y2030_Stated_Policies_Scenario" : "21.2",
+    "y2030_Sustainable_Development_Scenario" : "29.7"
+}
+
+/* 75 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413db08"),
+    "country" : "Rest of the world",
+    "type" : "igrElectric",
+    "indicator" : "Green Transport",
+    "y2030_Stated_Policies_Scenario" : "84.5",
+    "y2030_Sustainable_Development_Scenario" : "161.2"
+}
+
+/* 76 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413db0b"),
+    "country" : "Afghanistan",
+    "type" : "igrFinancial",
+    "indicator" : "Green research and development",
+    "y2010_2019" : "1285.243062"
+}
+
+/* 77 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413db0e"),
+    "country" : "Bangladesh",
+    "type" : "igrFinancial",
+    "indicator" : "Green research and development",
+    "y2010_2019" : "518.266556"
+}
+
+/* 78 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413db11"),
+    "country" : "Bhutan",
+    "type" : "igrFinancial",
+    "indicator" : "Green research and development",
+    "y2010_2019" : "25.984479"
+}
+
+/* 79 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413db14"),
+    "country" : "Cambodia",
+    "type" : "igrFinancial",
+    "indicator" : "Green research and development",
+    "y2010_2019" : "134.86185"
+}
+
+/* 80 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413db17"),
+    "country" : "China",
+    "type" : "igrFinancial",
+    "indicator" : "Green research and development",
+    "y2010_2019" : "744.972631"
+}
+
+/* 81 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413db1a"),
+    "country" : "India",
+    "type" : "igrFinancial",
+    "indicator" : "Green research and development",
+    "y2010_2019" : "668.227712"
+}
+
+/* 82 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413db1d"),
+    "country" : "Indonesia",
+    "type" : "igrFinancial",
+    "indicator" : "Green research and development",
+    "y2010_2019" : "1359.922077"
+}
+
+/* 83 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413db20"),
+    "country" : "Lao PDR",
+    "type" : "igrFinancial",
+    "indicator" : "Green research and development",
+    "y2010_2019" : "87.542263"
+}
+
+/* 84 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413db23"),
+    "country" : "Malaysia",
+    "type" : "igrFinancial",
+    "indicator" : "Green research and development",
+    "y2010_2019" : "13.725139"
+}
+
+/* 85 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413db26"),
+    "country" : "Maldives",
+    "type" : "igrFinancial",
+    "indicator" : "Green research and development",
+    "y2010_2019" : "10.397275"
+}
+
+/* 86 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413db29"),
+    "country" : "Mongolia",
+    "type" : "igrFinancial",
+    "indicator" : "Green research and development",
+    "y2010_2019" : "182.585032"
+}
+
+/* 87 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413db2c"),
+    "country" : "Myanmar",
+    "type" : "igrFinancial",
+    "indicator" : "Green research and development",
+    "y2010_2019" : "215.101672"
+}
+
+/* 88 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413db2f"),
+    "country" : "Nepal",
+    "type" : "igrFinancial",
+    "indicator" : "Green research and development",
+    "y2010_2019" : "195.825113"
+}
+
+/* 89 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413db32"),
+    "country" : "Pakistan",
+    "type" : "igrFinancial",
+    "indicator" : "Green research and development",
+    "y2010_2019" : "965.24362"
+}
+
+/* 90 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413db35"),
+    "country" : "Philippines",
+    "type" : "igrFinancial",
+    "indicator" : "Green research and development",
+    "y2010_2019" : "414.051737"
+}
+
+/* 91 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413db38"),
+    "country" : "Sri Lanka",
+    "type" : "igrFinancial",
+    "indicator" : "Green research and development",
+    "y2010_2019" : "115.505723"
+}
+
+/* 92 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413db3b"),
+    "country" : "Thailand",
+    "type" : "igrFinancial",
+    "indicator" : "Green research and development",
+    "y2010_2019" : "65.746155"
+}
+
+/* 93 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413db3e"),
+    "country" : "Viet Nam",
+    "type" : "igrFinancial",
+    "indicator" : "Green research and development",
+    "y2010_2019" : "656.260792"
+}
+
+/* 94 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413db41"),
+    "country" : "United States",
+    "type" : "igrBiofuelProduction",
+    "indicator" : "Biofuel production-Green Spending",
+    "y2019_Production" : "35.44",
+    "y2030_Consumption" : "95"
+}
+
+/* 95 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413db44"),
+    "country" : "Brazil",
+    "type" : "igrBiofuelProduction",
+    "indicator" : "Biofuel production-Green Spending",
+    "y2019_Production" : "21.95",
+    "y2030_Consumption" : "37"
+}
+
+/* 96 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413db47"),
+    "country" : "European Union",
+    "type" : "igrBiofuelProduction",
+    "indicator" : "Biofuel production-Green Spending",
+    "y2019_Production" : "15.80",
+    "y2030_Consumption" : "51"
+}
+
+/* 97 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413db4a"),
+    "country" : "ASEAN",
+    "type" : "igrBiofuelProduction",
+    "indicator" : "Biofuel production-Green Spending",
+    "y2019_Production" : "10.64",
+    "y2030_Consumption" : "15"
+}
+
+/* 98 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413db4d"),
+    "country" : "China",
+    "type" : "igrBiofuelProduction",
+    "indicator" : "Biofuel production-Green Spending",
+    "y2019_Production" : "2.50",
+    "y2030_Consumption" : "26"
+}
+
+/* 99 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413db50"),
+    "country" : "India",
+    "type" : "igrBiofuelProduction",
+    "indicator" : "Biofuel production-Green Spending",
+    "y2019_Production" : "1.2",
+    "y2030_Consumption" : "8"
+}
+
+/* 100 */
+{
+    "_id" : ObjectId("620cbc0b0bcdbf1d3413db53"),
+    "country" : "Aviation and marine",
+    "type" : "igrBiofuelProduction",
+    "indicator" : "Biofuel production-Green Spending",
+    "y2019_Production" : "0",
+    "y2030_Consumption" : "47"
+}

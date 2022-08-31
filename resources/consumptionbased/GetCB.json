@@ -1,0 +1,822 @@
+{
+    "country": "China",
+    "type": "cbmfasiapacificdeveloping",
+    "indicator": "Material Footprint",
+    "y2010": "21825",
+    "y2011": "23697",
+    "y2012": "24623",
+    "y2013": "26112",
+    "y2014": "26686",
+    "y2015": "27444",
+    "y2016": "28438",
+    "y2017": "29432"
+}
+
+{
+    "country": "India",
+    "type": "cbmfasiapacificdeveloping",
+    "indicator": "Material Footprint",
+    "y2010": "5142",
+    "y2011": "5544",
+    "y2012": "5587",
+    "y2013": "5538",
+    "y2014": "5679",
+    "y2015": "5840",
+    "y2016": "6001",
+    "y2017": "6162"
+}
+
+{
+    "country": "Indonesia",
+    "type": "cbmfasiapacificdeveloping",
+    "indicator": "Material Footprint",
+    "y2010": "1362",
+    "y2011": "1442",
+    "y2012": "1533",
+    "y2013": "1594",
+    "y2014": "1510",
+    "y2015": "1550",
+    "y2016": "1600",
+    "y2017": "1650"
+}
+
+{
+    "country": "Viet Nam",
+    "type": "cbmfasiapacificdeveloping",
+    "indicator": "Material Footprint",
+    "y2010": "936",
+    "y2011": "960",
+    "y2012": "943",
+    "y2013": "1002",
+    "y2014": "1050",
+    "y2015": "1102",
+    "y2016": "1156",
+    "y2017": "1209"
+}
+
+{
+    "country": "Pakistan",
+    "type": "cbmfasiapacificdeveloping",
+    "indicator": "Material Footprint",
+    "y2010": "493",
+    "y2011": "539",
+    "y2012": "548",
+    "y2013": "564",
+    "y2014": "581",
+    "y2015": "598",
+    "y2016": "613",
+    "y2017": "629"
+}
+
+{
+    "country": "Thailand",
+    "type": "cbmfasiapacificdeveloping",
+    "indicator": "Material Footprint",
+    "y2010": "809",
+    "y2011": "893",
+    "y2012": "928",
+    "y2013": "949",
+    "y2014": "960",
+    "y2015": "980",
+    "y2016": "1007",
+    "y2017": "1033"
+}
+
+{
+    "country": "Other",
+    "type": "cbmfasiapacificdeveloping",
+    "indicator": "Material Footprint",
+    "y2010": "1674",
+    "y2011": "1733",
+    "y2012": "1790",
+    "y2013": "1871",
+    "y2014": "1897",
+    "y2015": "1953",
+    "y2016": "2011",
+    "y2017": "2068"
+}
+
+{
+    "country": "Asia Pacific Developing",
+    "type": "cbmfasiapacificworld",
+    "indicator": "Material Footprint",
+    "y2010": "32243",
+    "y2011": "34808",
+    "y2012": "35951",
+    "y2013": "37630",
+    "y2014": "38363",
+    "y2015": "39468",
+    "y2016": "40825",
+    "y2017": "42419"
+}
+
+{
+    "country": "Asia Pacific Industrial",
+    "type": "cbmfasiapacificworld",
+    "indicator": "Material Footprint",
+    "y2010": "5650",
+    "y2011": "5946",
+    "y2012": "6167",
+    "y2013": "6043",
+    "y2014": "5979",
+    "y2015": "6091",
+    "y2016": "6231",
+    "y2017": "6372"
+}
+
+{
+    "country": "Rest of the world",
+    "type": "cbmfasiapacificworld",
+    "indicator": "Material Footprint",
+    "y2010": "38641",
+    "y2011": "39717",
+    "y2012": "39533",
+    "y2013": "40536",
+    "y2014": "41208",
+    "y2015": "41877",
+    "y2016": "42646",
+    "y2017": "43419"
+}
+
+{
+    "country": "MF Asia Pacific Developing",
+    "type": "cbmfcompared",
+    "indicator": "Material Footprint",
+    "y2010": "32242.5344995",
+    "y2011": "34808.0867359",
+    "y2012": "35950.8707993",
+    "y2013": "37630.0294377",
+    "y2014": "38363.2860239",
+    "y2015": "39468.0141416999",
+    "y2016": "40825.2220118",
+    "y2017": "42182.9021842"
+}
+
+{
+    "country": "MF Asia Pacific Industrial",
+    "type": "cbmfcompared",
+    "indicator": "Material Footprint",
+    "y2010": "5649.67288",
+    "y2011": "5945.71274",
+    "y2012": "6166.91207",
+    "y2013": "6042.52204",
+    "y2014": "5979.19904",
+    "y2015": "6090.65419",
+    "y2016": "6231.27532",
+    "y2017": "6372.0596"
+}
+
+{
+    "country": "MF Rest of the world",
+    "type": "cbmfcompared",
+    "indicator": "Material Footprint",
+    "y2010": "38640.54300182",
+    "y2011": "39716.66862701",
+    "y2012": "39532.93951168",
+    "y2013": "40535.65451051",
+    "y2014": "41207.52636503",
+    "y2015": "41876.505176",
+    "y2016": "42645.96819518",
+    "y2017": "43418.90864659"
+}
+
+{
+    "country": "DMC Asia-Pacific Developing",
+    "type": "cbmfcompared",
+    "indicator": "Material Footprint",
+    "y2010": "38130.46250666",
+    "y2011": "41200.7592409499",
+    "y2012": "42664.46471807",
+    "y2013": "44218.79965995",
+    "y2014": "45054.14437895",
+    "y2015": "46440.36981459",
+    "y2016": "48212.07711905",
+    "y2017": "49976.49588082"
+}
+
+{
+    "country": "DMC Asia-Pacific Industrial",
+    "type": "cbmfcompared",
+    "indicator": "Material Footprint",
+    "y2010": "3204.75304283",
+    "y2011": "3229.75168091",
+    "y2012": "3229.09319744",
+    "y2013": "3242.01577973",
+    "y2014": "3221.73550602",
+    "y2015": "3206.92860109",
+    "y2016": "3192.63292532",
+    "y2017": "3177.65939038"
+}
+
+{
+    "country": "DMC Rest of the world",
+    "type": "cbmfcompared",
+    "indicator": "Material Footprint",
+    "y2010": "34919.44595647",
+    "y2011": "35695.47474033",
+    "y2012": "35692.64088496",
+    "y2013": "36603.20552284",
+    "y2014": "37153.02498403",
+    "y2015": "37686.27040737",
+    "y2016": "38203.09820682",
+    "y2017": "38726.00155179"
+}
+
+{
+    "country": "Asia Pacific Developing",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "mf",
+    "y2010" : "8.95",
+    "y2017" : "10.93"
+}
+
+{
+    "country": "Asia Pacific Developing",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "dmc",
+    "y2010" : "10.59",
+    "y2017" : "12.95"
+}
+
+{
+    "country": "Viet Nam",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "mf",
+    "y2010" : "10.58",
+    "y2017" : "12.66"
+}
+
+{
+    "country": "Viet Nam",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "dmc",
+    "y2010" : "12.33",
+    "y2017" : "14.66"
+}
+
+{
+    "country": "Thailand",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "mf",
+    "y2010" : "12.04",
+    "y2017" : "14.96"
+}
+
+{
+    "country": "Thailand",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "dmc",
+    "y2010" : "10.21",
+    "y2017" : "12.73"
+}
+
+{
+    "country": "Sri Lanka",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "mf",
+    "y2010" : "2.83",
+    "y2017" : "4.11"
+}
+
+{
+    "country": "Sri Lanka",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "dmc",
+    "y2010" : "3.86",
+    "y2017" : "5.59"
+}
+
+{
+    "country": "Philippines",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "mf",
+    "y2010" : "4.25",
+    "y2017" : "4.40"
+}
+
+{
+    "country": "Philippines",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "dmc",
+    "y2010" : "4.11",
+    "y2017" : "3.97"
+}
+
+{
+    "country": "Pakistan",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "mf",
+    "y2010" : "2.89",
+    "y2017" : "3.19"
+}
+
+{
+    "country": "Pakistan",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "dmc",
+    "y2010" : "3.89",
+    "y2017" : "4.45"
+}
+
+{
+    "country": "Nepal",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "mf",
+    "y2010" : "2.44",
+    "y2017" : "2.78"
+}
+
+{
+    "country": "Nepal",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "dmc",
+    "y2010" : "3.43",
+    "y2017" : "3.90"
+}
+
+{
+    "country": "Myanmar",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "mf",
+    "y2010" : "1.53",
+    "y2017" : "1.43"
+}
+
+{
+    "country": "Myanmar",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "dmc",
+    "y2010" : "3.39",
+    "y2017" : "3.52"
+}
+
+{
+    "country": "Mongolia",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "mf",
+    "y2010" : "9.88",
+    "y2017" : "13.86"
+}
+
+{
+    "country": "Mongolia",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "dmc",
+    "y2010" : "24.15",
+    "y2017" : "34.54"
+}
+
+{
+    "country": "Maldives",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "mf",
+    "y2010" : "14.23",
+    "y2017" : "14.52"
+}
+
+{
+    "country": "Maldives",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "dmc",
+    "y2010" : "6.13",
+    "y2017" : "6.84"
+}
+
+{
+    "country": "Malaysia",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "mf",
+    "y2010" : "21.15",
+    "y2017" : "24.15"
+}
+
+{
+    "country": "Malaysia",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "dmc",
+    "y2010" : "18.48",
+    "y2017" : "19.27"
+}
+
+{
+    "country": "Lao PDR",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "mf",
+    "y2010" : "5.23",
+    "y2017" : "7.53"
+}
+
+{
+    "country": "Lao PDR",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "dmc",
+    "y2010" : "8.38",
+    "y2017" : "11.99"
+}
+
+{
+    "country": "Indonesia",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "mf",
+    "y2010" : "5.62",
+    "y2017" : "6.25"
+}
+
+{
+    "country": "Indonesia",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "dmc",
+    "y2010" : "7.54",
+    "y2017" : "7.48"
+}
+
+{
+    "country": "India",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "mf",
+    "y2010" : "4.18",
+    "y2017" : "4.60"
+}
+
+{
+    "country": "India",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "dmc",
+    "y2010" : "4.71",
+    "y2017" : "5.54"
+}
+
+{
+    "country": "China",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "mf",
+    "y2010" : "16.05",
+    "y2017" : "20.88"
+}
+
+{
+    "country": "China",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "dmc",
+    "y2010" : "19.26",
+    "y2017" : "24.97"
+}
+
+{
+    "country": "Cambodia",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "mf",
+    "y2010" : "4.58",
+    "y2017" : "3.62"
+}
+
+{
+    "country": "Cambodia",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "dmc",
+    "y2010" : "6.08",
+    "y2017" : "5.29"
+}
+
+{
+    "country": "Bhutan",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "mf",
+    "y2010" : "9.08",
+    "y2017" : "10.37"
+}
+
+{
+    "country": "Bhutan",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "dmc",
+    "y2010" : "8.28",
+    "y2017" : "10.36"
+}
+
+{
+    "country": "Bangladesh",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "mf",
+    "y2010" : "2.00",
+    "y2017" : "2.36"
+}
+
+{
+    "country": "Bangladesh",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "dmc",
+    "y2010" : "2.40",
+    "y2017" : "2.66"
+}
+
+{
+    "country": "Afghanistan",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "mf",
+    "y2010" : "1.35",
+    "y2017" : "1.22"
+}
+
+{
+    "country": "Afghanistan",
+    "type": "cbmfcAsiaPacificDeveloping",
+    "indicator": "Material Footprint",
+    "tag": "dmc",
+    "y2010" : "2.07",
+    "y2017" : "1.91"
+}
+
+{
+    "country": "Australia",
+    "type": "cbmfcAsiaPacificIndustralized",
+    "indicator": "Material Footprint",
+    "tag": "mf",
+    "y2010" : "40.86",
+    "y2017" : "43.35"
+}
+
+{
+    "country": "Australia",
+    "type": "cbmfcAsiaPacificIndustralized",
+    "indicator": "Material Footprint",
+    "tag": "dmc",
+    "y2010" : "40.67",
+    "y2017" : "37.93"
+}
+
+{
+    "country": "Japan",
+    "type": "cbmfcAsiaPacificIndustralized",
+    "indicator": "Material Footprint",
+    "tag": "mf",
+    "y2010" : "23.76",
+    "y2017" : "25.93"
+}
+
+{
+    "country": "Japan",
+    "type": "cbmfcAsiaPacificIndustralized",
+    "tag": "dmc",
+    "y2010" : "9.86",
+    "y2017" : "8.96"
+}
+
+{
+    "country": "New Zealand",
+    "type": "cbmfcAsiaPacificIndustralized",
+    "indicator": "Material Footprint",
+    "tag": "mf",
+    "y2010" : "21.88",
+    "y2017" : "24.46"
+}
+
+{
+    "country": "New Zealand",
+    "type": "cbmfcAsiaPacificIndustralized",
+    "indicator": "Material Footprint",
+    "tag": "dmc",
+    "y2010" : "22.42",
+    "y2017" : "24.17"
+}
+
+{
+    "country": "Republic of Korea",
+    "type": "cbmfcAsiaPacificIndustralized",
+    "indicator": "Material Footprint",
+    "tag": "mf",
+    "y2010" : "24.65",
+    "y2017" : "28.57"
+}
+
+{
+    "country": "Republic of Korea",
+    "type": "cbmfcAsiaPacificIndustralized",
+    "indicator": "Material Footprint",
+    "tag": "dmc",
+    "y2010" : "15.92",
+    "y2017" : "15.86"
+}
+
+{
+    "country": "Singapore",
+    "type": "cbmfcAsiaPacificIndustralized",
+    "indicator": "Material Footprint",
+    "tag": "mf",
+    "y2010" : "73.66",
+    "y2017" : "76.10"
+}
+
+{
+    "country": "Singapore",
+    "type": "cbmfcAsiaPacificIndustralized",
+    "indicator": "Material Footprint",
+    "tag": "dmc",
+    "y2010" : "29.75",
+    "y2017" : "32.63"
+}
+
+{
+    "country": "Asia Pacific Developing",
+    "type": "cbmfcAsiaPacificIndustralized",
+    "indicator": "Material Footprint",
+    "tag": "mf",
+    "y2010" : "8.95",
+    "y2017" : "10.93"
+}
+
+{
+    "country": "Asia Pacific Developing",
+    "type": "cbmfcAsiaPacificIndustralized",
+    "indicator": "Material Footprint",
+    "tag": "dmc",
+    "y2010" : "10.59",
+    "y2017" : "12.95"
+}
+
+{
+    "country": "Asia-Pacific Industrial",
+    "type": "cbmfcAsiaPacificIndustralized",
+    "indicator": "Material Footprint",
+    "tag": "mf",
+    "y2010" : "26.94",
+    "y2017" : "29.83"
+}
+
+{
+    "country": "Asia-Pacific Industrial",
+    "type": "cbmfcAsiaPacificIndustralized",
+    "indicator": "Material Footprint",
+    "tag": "dmc",
+    "y2010" : "11.28",
+    "y2017" : "10.85"
+}
+
+{
+    "country": "Rest of the world",
+    "type": "cbmfcAsiaPacificIndustralized",
+    "indicator": "Material Footprint",
+    "tag": "mf",
+    "y2010" : "12.28",
+    "y2017" : "12.49"
+}
+
+{
+    "country": "Rest of the world",
+    "type": "cbmfcAsiaPacificIndustralized",
+    "indicator": "Material Footprint",
+    "tag": "dmc",
+    "y2010" : "11.37",
+    "y2017" : "11.39"
+}
+
+{
+    "country": "The world",
+    "type": "cbmfcAsiaPacificIndustralized",
+    "indicator": "Material Footprint",
+    "tag": "mf",
+    "y2010" : "11.00",
+    "y2017" : "12.19"
+}
+
+{
+    "country": "The world",
+    "type": "cbmfcAsiaPacificIndustralized",
+    "indicator": "Material Footprint",
+    "tag": "dmc",
+    "y2010" : "10.96",
+    "y2017" : "12.17"
+}
+
+{
+    "country" : "China",
+    "type" : "waterasiapacific",
+    "indicator": "Water Footprint",
+    "y2010" : "3339",
+    "y2011" : "3761",
+    "y2012" : "4183",
+    "y2013" : "4701",
+    "y2014" : "4660",
+    "y2015" : "4341"
+}
+
+{
+    "country" : "India",
+    "type" : "waterasiapacific",
+    "indicator": "Water Footprint",
+    "y2010" : "3148",
+    "y2011" : "3373",
+    "y2012" : "3597",
+    "y2013" : "3682",
+    "y2014" : "3756",
+    "y2015" : "3623"
+}
+
+{
+    "country" : "Indonesia",
+    "type" : "waterasiapacific",
+    "indicator": "Water Footprint",
+    "y2010" : "1296",
+    "y2011" : "1428",
+    "y2012" : "1561",
+    "y2013" : "1565",
+    "y2014" : "1582",
+    "y2015" : "1507"
+}
+
+{
+    "country" : "Pakistan",
+    "type" : "waterasiapacific",
+    "indicator": "Water Footprint",
+    "y2010" : "422",
+    "y2011" : "474",
+    "y2012" : "527",
+    "y2013" : "521",
+    "y2014" : "550",
+    "y2015" : "572"
+}
+
+{
+    "country" : "Thailand",
+    "type" : "waterasiapacific",
+    "indicator": "Water Footprint",
+    "y2010" : "413",
+    "y2011" : "450",
+    "y2012" : "488",
+    "y2013" : "550",
+    "y2014" : "556",
+    "y2015" : "530"
+}
+
+{
+    "country" : "Myanmar",
+    "type" : "waterasiapacific",
+    "indicator": "Water Footprint",
+    "y2010" : "404",
+    "y2011" : "471",
+    "y2012" : "537",
+    "y2013" : "553",
+    "y2014" : "565",
+    "y2015" : "569"
+}
+
+{
+    "country" : "Philippines",
+    "type" : "waterasiapacific",
+    "indicator": "Water Footprint",
+    "y2010" : "304",
+    "y2011" : "330",
+    "y2012" : "356",
+    "y2013" : "380",
+    "y2014" : "386",
+    "y2015" : "369"
+}
+
+{
+    "country" : "Others",
+    "type" : "waterasiapacific",
+    "indicator": "Water Footprint",
+    "y2010" : "862",
+    "y2011" : "949",
+    "y2012" : "1036",
+    "y2013" : "1130",
+    "y2014" : "1189",
+    "y2015" : "1171"
+}

@@ -1,0 +1,25 @@
+{
+    "country": "World",
+    "type": "ghgemissionEnergy",
+    "indicator": "Emissions of the energy sector",
+    "y1990": "20516.04",
+    "y1995": "21372.5",
+    "y2000": "23241.21",
+    "y2005": "27077.99",
+    "y2010": "30582.36",
+    "y2015": "32365.54",
+    "y2018": "33513.25"
+}
+
+{
+    "country": "Asia and the Pacific",
+    "type": "ghgemissionEnergy",
+    "indicator": "Emissions of the energy sector",
+    "y1990": "4893.3",
+    "y1995": "6341.74",
+    "y2000": "7095.07",
+    "y2005": "9947.99",
+    "y2010": "13138.9",
+    "y2015": "15172.42",
+    "y2018": "16093.09"
+}

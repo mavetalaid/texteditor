@@ -1,0 +1,249 @@
+[
+    {
+        "country": "Asia Pacific Developing",
+        "data": [
+            {
+                "year": 2010,
+                "value": 10.5898614908632
+            },
+            {
+                "year": 2017,
+                "value": 12.9547067732332
+            }
+        ]
+    },
+    {
+        "country": "Viet Nam",
+        "data": [
+            {
+                "year": 2010,
+                "value": 12.33
+            },
+            {
+                "year": 2017,
+                "value": 14.66
+            }
+        ]
+    },
+    {
+        "country": "Thailand",
+        "data": [
+            {
+                "year": 2010,
+                "value": 10.21
+            },
+            {
+                "year": 2017,
+                "value": 12.73
+            }
+        ]
+    },
+    {
+        "country": "Sri Lanka",
+        "data": [
+            {
+                "year": 2010,
+                "value": 3.86
+            },
+            {
+                "year": 2017,
+                "value": 5.59
+            }
+        ]
+    },
+    {
+        "country": "Philippines",
+        "data": [
+            {
+                "year": 2010,
+                "value": 4.11
+            },
+            {
+                "year": 2017,
+                "value": 3.97
+            }
+        ]
+    },
+    {
+        "country": "Pakistan",
+        "data": [
+            {
+                "year": 2010,
+                "value": 3.89
+            },
+            {
+                "year": 2017,
+                "value": 4.45
+            }
+        ]
+    },
+    {
+        "country": "Nepal",
+        "data": [
+            {
+                "year": 2010,
+                "value": 3.43
+            },
+            {
+                "year": 2017,
+                "value": 3.9
+            }
+        ]
+    },
+    {
+        "country": "Myanmar",
+        "data": [
+            {
+                "year": 2010,
+                "value": 3.39
+            },
+            {
+                "year": 2017,
+                "value": 3.52
+            }
+        ]
+    },
+    {
+        "country": "Mongolia",
+        "data": [
+            {
+                "year": 2010,
+                "value": 24.15
+            },
+            {
+                "year": 2017,
+                "value": 34.54
+            }
+        ]
+    },
+    {
+        "country": "Maldives",
+        "data": [
+            {
+                "year": 2010,
+                "value": 6.13
+            },
+            {
+                "year": 2017,
+                "value": 6.84
+            }
+        ]
+    },
+    {
+        "country": "Malaysia",
+        "data": [
+            {
+                "year": 2010,
+                "value": 18.48
+            },
+            {
+                "year": 2017,
+                "value": 19.27
+            }
+        ]
+    },
+    {
+        "country": "Lao PDR",
+        "data": [
+            {
+                "year": 2010,
+                "value": 8.38
+            },
+            {
+                "year": 2017,
+                "value": 11.99
+            }
+        ]
+    },
+    {
+        "country": "Indonesia",
+        "data": [
+            {
+                "year": 2010,
+                "value": 7.54
+            },
+            {
+                "year": 2017,
+                "value": 7.48
+            }
+        ]
+    },
+    {
+        "country": "India",
+        "data": [
+            {
+                "year": 2010,
+                "value": 4.71
+            },
+            {
+                "year": 2017,
+                "value": 5.54
+            }
+        ]
+    },
+    {
+        "country": "China",
+        "data": [
+            {
+                "year": 2010,
+                "value": 19.26
+            },
+            {
+                "year": 2017,
+                "value": 24.97
+            }
+        ]
+    },
+    {
+        "country": "Cambodia",
+        "data": [
+            {
+                "year": 2010,
+                "value": 6.08
+            },
+            {
+                "year": 2017,
+                "value": 5.29
+            }
+        ]
+    },
+    {
+        "country": "Bhutan",
+        "data": [
+            {
+                "year": 2010,
+                "value": 8.28
+            },
+            {
+                "year": 2017,
+                "value": 10.36
+            }
+        ]
+    },
+    {
+        "country": "Bangladesh",
+        "data": [
+            {
+                "year": 2010,
+                "value": 2.4
+            },
+            {
+                "year": 2017,
+                "value": 2.66
+            }
+        ]
+    },
+    {
+        "country": "Afghanistan",
+        "data": [
+            {
+                "year": 2010,
+                "value": 2.07
+            },
+            {
+                "year": 2017,
+                "value": 1.91
+            }
+        ]
+    }
+]

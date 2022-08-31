@@ -1,0 +1,412 @@
+body {
+    background-color: #FFF;
+    font-family: "Roboto Slab";
+    font-weight: 300;
+    margin: 0 auto;
+    overflow: auto;
+}
+
+.chart-container {
+    margin-left: 100px;
+    -webkit-margin-top-collapse: 100px;
+    position: relative;
+    height: 200px;
+    width: 300px;
+}
+
+#header {
+    /* background-color: #333; */
+    position: relative;
+    text-align: center;
+}
+
+#header .list {
+    padding: 16px 24px;
+}
+
+#header .text {
+    color: #FFF;
+}
+
+#banner {
+    height: 300px;
+    position: relative;
+    overflow: hidden;
+}
+
+#banner img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.categories {
+    margin: 16px 0;
+    position: relative;
+}
+
+.category-cont {
+    text-align: center;
+}
+
+#indicator {
+    align-items: center;
+    display: flex;
+    margin: 24px 0;
+    position: relative;
+    padding-top: 18rem;
+}
+
+#visualization {
+    position: relative;
+}
+
+#footer {
+    background-color: #cecece;
+    height: 100px;
+    position: relative;
+}
+
+.catlist {
+    /* background-color: #CCC;
+    border: 1px solid #CCC; */
+    display: block;
+    padding: 8px 0;
+    margin-top: 47px;
+}
+
+.catheader.text {
+    color: #000;
+    font-family: 'Playfair Display', serif;
+    font-size: 36px;
+    margin: 10px 0;
+    font-weight: bold;
+}
+
+.headerdesc.text {
+    display: block;
+}
+
+.indicator-header.text {
+    color: #197EBF;
+    font-family: 'Playfair Display', serif;
+    font-size: 36px;
+    margin: 10px 0;
+}
+
+
+.catheader.container .text {
+    color: #000;
+    font-size: 20px;
+}
+
+.catheader.container {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    margin-bottom: 8px;
+    font-size: 3rem;
+    font-weight: 900;
+    text-align: center;
+    letter-spacing: 8px;
+}
+
+.catcontainer.container {
+    padding: 0;
+    margin: 0;
+    width: calc(50% - 32px);
+}
+
+.category-desc {
+    position: absolute;
+    top: 0;
+    padding: 0 !important;
+}
+
+.categories .chart .split-container {
+    /* background-color: #333;
+    color: #FFF; */
+}
+
+/* .categories .chart .split-container > div {
+    padding: 16px 0;
+} */
+
+.categories .chart .list {
+    padding: 0px 4px;
+}
+
+#category .chart .split-container {
+    position: relative;
+    height: 300px;
+}
+
+.chart {
+    min-height: 300px;
+    position: relative;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+
+.grid-indicator {
+    /* border: 1px solid var(--C100); */
+    background-color: #FFF;
+    /* position: absolute;
+    left: 0;
+    right: 0;
+    top: 124px;
+    bottom: 0; */
+}
+
+.expand .grid-indicator {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 124px;
+    bottom: 0;
+    visibility: visible;
+}
+
+#indicator>.grid-indicator {
+    left: unset;
+    margin-left: 32px;
+    margin-bottom: 0;
+    width: 50%;
+}
+
+.categories .expander .grid-indicator.grid {
+    left: unset;
+    width: 65%;
+}
+
+.read-more .button {
+    position: absolute;
+    width: unset;
+    height: unset;
+    right: 1.5rem;
+    bottom: 0rem;
+    border-right: none;
+    background-color: transparent !important;
+    color: #FFF;
+
+}
+
+.read-more .button .icon {
+    background-color: transparent;
+    font-size: 24px;
+}
+
+.read-more .button .text:hover {
+    font-weight: normal !important;
+    color: blue !important;
+}
+
+.grid-indicator td {
+    /* border: 1px solid #FFF; */
+    text-align: center;
+}
+
+.grid-indicator .grid {
+    text-align: center;
+}
+
+
+.grid-indicator .grid .text:hover {
+    font-weight: bold;
+    color: black;
+}
+
+
+.grid-indicator-inner {
+    /* border: 1px solid #000; */
+    /* position: absolute; */
+    left: 0;
+    right: 0;
+    top: 124px;
+    bottom: 0;
+}
+
+.grid-indicator-inner td {
+    text-align: center;
+}
+
+
+.indicator-desc.textblock {
+    font-size: 18px;
+}
+
+.catlist .button {
+    display: inline-block;
+    height: unset;
+    margin: 0 16px;
+    min-width: 100px;
+    text-align: center;
+}
+
+.under_dev {
+    animation: blinker 1s linear infinite;
+    font-size: 3rem;
+    color: red;
+    font-weight: bolder;
+    width: 100%;
+    justify-content: center;
+    background: yellow;
+}
+
+@keyframes blinker {
+    50% {
+        opacity: 0;
+    }
+}
+
+.catlist .button i.icon {
+    background-color: #EEE;
+    border-radius: 50%;
+    color: #333;
+    font-size: 2.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 3.5rem;
+    width: 3.5rem;
+    margin: 0 auto 4px auto;
+}
+
+.catlist .button i.icon:hover {
+    background-color: rgb(232, 233, 196);
+}
+
+.catlist .button .text {
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 500;
+    text-shadow: 1px 1px #000;
+    color: #fff;
+}
+
+
+.catlist .button .text:hover {
+    font-weight: 400;
+}
+
+
+.chart .split-container,
+.chart .canvas {
+    position: absolute;
+}
+
+.chart-top-header .split-container {
+    position: unset;
+}
+
+.chart-top-header .split-container>div {
+    height: unset !important;
+    position: unset;
+    padding: 0 !important;
+    top: unset !important;
+}
+
+.chart-top-header .canvas {
+    position: unset;
+    height: 400px !important;
+}
+
+#visualization .chart {
+    /* margin-bottom: 32px; */
+    margin-top: 32px;
+}
+
+.mdi-virus {
+    color: orange !important;
+}
+
+.mdi-water {
+    color: blue !important;
+}
+
+.mdi-image-filter-hdr {
+    color: green !important;
+}
+
+.box-layout {
+    background-color: rgb(243, 252, 255);
+    margin: 0 auto;
+}
+
+@media (min-width: 1400px) {
+    #content {
+        width: 1320px;
+    }
+}
+
+@media (max-width: 1200px) {
+    #content {
+        width: 1140px;
+    }
+}
+
+@media (max-width: 992px) {
+    #content {
+        width: 960px;
+    }
+}
+
+@media (max-width: 768px) {
+    #content {
+        width: 720px;
+    }
+}
+
+@media (max-width: 576px) {
+    #content {
+        width: 540px;
+    }
+}
+
+#content {
+    margin: 0 auto;
+}
+
+.chart-legend-container.horizontal.container {
+    position: absolute;
+    top: 0;
+    bottom: 16px;
+    overflow: auto;
+}
+
+
+.texteditor {
+    position: relative;
+}
+
+.converted-text {
+    padding-top: 1rem;
+}
+
+.category-cont.container .texteditor  {
+    padding-bottom: 1rem;
+}
+
+.texteditor textarea, .converted-text input {
+    height: 6rem;
+    width: 31rem;
+}
+
+.texteditor-buttons {
+    /* width: 31rem;
+    align-items: center; */
+}
+
+.texteditor-buttons .button {
+    width: auto;
+    height: 2rem;
+    margin: 3px;
+    background-color: #ccc;
+}
+
+.texteditor-buttons .button:hover {
+    background-color: #e9ecef;
+}

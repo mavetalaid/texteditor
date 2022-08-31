@@ -1,0 +1,308 @@
+[
+    {
+        "country":"Afghanistan",
+        "data":[
+            {
+                "year": "Agricluture",
+                "value": 7510115.913299999
+            },
+            {
+                "year": "Forest",
+                "value": 752251.0086000001
+            },
+            {
+                "year": "Urban",
+                "value": 76779.7758
+            }
+        ]
+    },
+    {
+        "country":"Bangladesh",
+        "data":[
+            {
+                "year": "Agricluture",
+                "value": 11072642.806799999
+            },
+            {
+                "year": "Forest",
+                "value": 1809904.2642
+            },
+            {
+                "year": "Urban",
+                "value": 114513.36570000001  
+            }
+        ]
+    },
+    {
+        "country":"Bhutan",
+        "data":[
+            {
+                "year": "Agricluture",
+                "value": 141350.9404
+            },
+            {
+                "year": "Forest",
+                "value": 2970382.6045000004
+            },
+            {
+                "year": "Urban",
+                "value": 258.9151  
+            }
+        ]
+    },
+    {
+        "country":"Cambodia",
+        "data":[
+            {
+                "year": "Agricluture",
+                "value": 7988559.1808
+            },
+            {
+                "year": "Forest",
+                "value": 8356605.9008
+            },
+            {
+                "year": "Urban",
+                "value": 29579.7975
+            }
+        ]
+    },
+    {
+        "country":"China",
+        "data":[
+            {
+                "year": "Agricluture",
+                "value": 276721098.64245003
+            },
+            {
+                "year": "Forest",
+                "value": 178408717.890975
+            },
+            {
+                "year": "Urban",
+                "value": 12403311.9705
+            }
+        ]
+    },
+    {
+        "country":"India",
+        "data":[
+            {
+                "year": "Agricluture",
+                "value": 224963190.964757
+            },
+            {
+                "year": "Forest",
+                "value": 61544417.09495799
+            },
+            {
+                "year": "Urban",
+                "value": 2823475.4340660004
+            }
+        ]
+    },
+    {
+        "country":"Indonesia",
+        "data":[
+            {
+                "year": "Agricluture",
+                "value": 64081900.496796
+            },
+            {
+                "year": "Forest",
+                "value": 111475191.056832
+            },
+            {
+                "year": "Urban",
+                "value": 1607161.931772   
+            }
+        ]
+    },
+    {
+        "country":"Laos",
+        "data":[
+            {
+                "year": "Agricluture",
+                "value": 4343053.5981
+            },
+            {
+                "year": "Forest",
+                "value": 13287395.962575
+            },
+            {
+                "year": "Urban",
+                "value": 15947.882999999998
+            }
+        ]
+    },
+    {
+        "country":"Malaysia",
+        "data":[
+            {
+                "year": "Agricluture",
+                "value": 10767712.2272
+            },
+            {
+                "year": "Forest",
+                "value": 21485449.505925
+            },
+            {
+                "year": "Urban",
+                "value": 377624.45355
+            }
+        ]
+    },
+    {
+        "country":"Maldives",
+        "data":[
+            {
+                "year": "Agricluture",
+                "value": 5777.2176
+            },
+            {
+                "year": "Forest",
+                "value": 512.2656000000001
+            },
+            {
+                "year": "Urban",
+                "value": 208.7008  
+            }
+        ]
+    },
+    {
+        "country":"Mongolia",
+        "data":[
+            {
+                "year": "Agricluture",
+                "value": 10629772.420225
+            },
+            {
+                "year": "Forest",
+                "value": 8755759.227425
+            },
+            {
+                "year": "Urban",
+                "value": 64438.134775000006
+            }
+        ]
+    },
+    {
+        "country":"Myanmar",
+        "data":[
+            {
+                "year": "Agricluture",
+                "value": 22884930.703222
+            },
+            {
+                "year": "Forest",
+                "value": 34397537.578503005
+            },
+            {
+                "year": "Urban",
+                "value": 137944.99655100002 
+            }
+        ]
+    },
+    {
+        "country":"Nepal",
+        "data":[
+            {
+                "year": "Agricluture",
+                "value": 4332377.952
+            },
+            {
+                "year": "Forest",
+                "value": 6777436.576752
+            },
+            {
+                "year": "Urban",
+                "value": 35144.116127999994
+            }
+        ]
+    },
+    {
+        "country":"Pakistan",
+        "data":[
+            {
+                "year": "Agricluture",
+                "value": 29462793.089238003
+            },
+            {
+                "year": "Forest",
+                "value": 2894146.7331779995
+            },
+            {
+                "year": "Urban",
+                "value": 399767.305833
+            }
+        ]
+    },
+    {
+        "country":"Philippines",
+        "data":[
+            {
+                "year": "Agricluture",
+                "value": 20979191.9936
+            },
+            {
+                "year": "Forest",
+                "value": 12079025.8752
+            },
+            {
+                "year": "Urban",
+                "value": 270025.08160000003
+            }
+        ]
+    },
+    {
+        "country":"Sri lanka",
+        "data":[
+            {
+                "year": "Agricluture",
+                "value": 3187657.821225
+            },
+            {
+                "year": "Forest",
+                "value": 2309823.860325
+            },
+            {
+                "year": "Urban",
+                "value": 115032.285125 
+            }
+        ]
+    },
+    {
+        "country":"Thailand",
+        "data":[
+            {
+                "year": "Agricluture",
+                "value": 34729486.020624995
+            },
+            {
+                "year": "Forest",
+                "value": 12948784.069374999
+            },
+            {
+                "year": "Urban",
+                "value": 410890.514375
+            }
+        ]
+    },
+    {
+        "country":"Veitnam",
+        "data":[
+            {
+                "year": "Agricluture",
+                "value": 15908332.735248
+            },
+            {
+                "year": "Forest",
+                "value": 11666081.371152
+            },
+            {
+                "year": "Urban",
+                "value": 341846.18510800006
+            }
+        ]
+    }
+]

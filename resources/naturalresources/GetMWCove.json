@@ -1,0 +1,92 @@
+[
+    {
+        "country": "Australia",
+        "data":[
+            {
+                "year": 2015,
+                "value": 98.91
+            }
+        ]
+    },
+    {
+        "country": "Bangladesh",
+        "data":[
+            {
+                "year": 2015,
+                "value": 55
+            }
+        ]
+    },
+    {
+        "country": "Bhutan",
+        "data":[
+            {
+                "year": 2012,
+                "value": 72.31
+            }
+        ]
+    },
+    {
+        "country": "China",
+        "data":[
+            {
+                "year": 2018,
+                "value": 100
+            }
+        ]
+    },
+    {
+        "country": "India",
+        "data":[
+            {
+                "year": 2011,
+                "value": 75
+            },
+            {
+                "year": 2012,
+                "value": 87.67
+            }
+        ]
+    },
+    {
+        "country": "Indonesia",
+        "data":[
+            {
+                "year": 2012,
+                "value": 95
+            },
+            {
+                "year": 2015,
+                "value": 72
+            }
+        ]
+    },
+    {
+        "country": "Japan",
+        "data":[            
+            {
+                "year": 2015,
+                "value": 96.05
+            }
+        ]
+    },
+    {
+        "country": "Maldives",
+        "data":[            
+            {
+                "year": 2012,
+                "value": 38.2
+            }
+        ]
+    },
+    {
+        "country": "Mongolia",
+        "data":[            
+            {
+                "year": 2015,
+                "value": 58.5
+            }
+        ]
+    }
+    
+]

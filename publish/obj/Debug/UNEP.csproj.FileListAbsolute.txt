@@ -1,0 +1,8 @@
+D:\Cloud\AITS Dropbox\Jonathan Manuel\Programs\UNEP\unep\publish\bin\Debug\CSiDetailPublish.exe.config
+D:\Cloud\AITS Dropbox\Jonathan Manuel\Programs\UNEP\unep\publish\bin\Debug\CSiDetailPublish.exe
+D:\Cloud\AITS Dropbox\Jonathan Manuel\Programs\UNEP\unep\publish\bin\Debug\CSiDetailPublish.pdb
+D:\Cloud\AITS Dropbox\Jonathan Manuel\Programs\UNEP\unep\publish\obj\Debug\UNEP.csproj.AssemblyReference.cache
+D:\Cloud\AITS Dropbox\Jonathan Manuel\Programs\UNEP\unep\publish\obj\Debug\UNEP.csproj.SuggestedBindingRedirects.cache
+D:\Cloud\AITS Dropbox\Jonathan Manuel\Programs\UNEP\unep\publish\obj\Debug\UNEP.csproj.CoreCompileInputs.cache
+D:\Cloud\AITS Dropbox\Jonathan Manuel\Programs\UNEP\unep\publish\obj\Debug\CSiDetailPublish.exe
+D:\Cloud\AITS Dropbox\Jonathan Manuel\Programs\UNEP\unep\publish\obj\Debug\CSiDetailPublish.pdb

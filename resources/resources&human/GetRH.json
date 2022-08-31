@@ -1,0 +1,2707 @@
+{
+    "country": "Afghanistan",
+    "type": "rhHDIdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "2.07",
+    "y2010_hdi": "0.46"
+}
+
+{
+    "country": "Bangladesh",
+    "type": "rhHDIdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "2.4",
+    "y2010_hdi": "0.55"
+}
+
+{
+    "country": "Bhutan",
+    "type": "rhHDIdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "8.28",
+    "y2010_hdi": "0.57"
+}
+
+{
+    "country": "China",
+    "type": "rhHDIdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "6.08",
+    "y2010_hdi": "0.7"
+}
+
+
+{
+    "country": "Combodia",
+    "type": "rhHDIdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "19.26",
+    "y2010_hdi": "0.54"
+}
+
+{
+    "country": "India",
+    "type": "rhHDIdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "4.71",
+    "y2010_hdi": "0.58"
+}
+
+{
+    "country": "Indonesia",
+    "type": "rhHDIdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "7.54",
+    "y2010_hdi": "0.67"
+}
+
+{
+    "country": "Lao PDR",
+    "type": "rhHDIdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "8.38",
+    "y2010_hdi": "0.55"
+}
+
+{
+    "country": "Malaysia",
+    "type": "rhHDIdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "18.48",
+    "y2010_hdi": "0.77"
+}
+
+{
+    "country": "Maldives",
+    "type": "rhHDIdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "6.13",
+    "y2010_hdi": "0.67"
+}
+
+{
+    "country": "Mongolia",
+    "type": "rhHDIdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "24.15",
+    "y2010_hdi": "0.7"
+}
+
+{
+    "country": "Myanmar",
+    "type": "rhHDIdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "3.39",
+    "y2010_hdi": "0.52"
+}
+
+{
+    "country": "Nepal",
+    "type": "rhHDIdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "3.43",
+    "y2010_hdi": "0.53"
+}
+
+{
+    "country": "Pakistan",
+    "type": "rhHDIdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "3.89",
+    "y2010_hdi": "0.52"
+}
+
+{
+    "country": "Philippines",
+    "type": "rhHDIdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "4.11",
+    "y2010_hdi": "0.67"
+}
+
+{
+    "country": "Thailand",
+    "type": "rhHDIdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "3.86",
+    "y2010_hdi": "0.72"
+}
+
+{
+    "country": "Sri Lanka",
+    "type": "rhHDIdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "10.21",
+    "y2010_hdi": "0.75"
+}
+
+{
+    "country": "Viet Nam",
+    "type": "rhHDIdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "12.33",
+    "y2010_hdi": "0.65"
+}
+
+{
+    "country": "Afghanistan",
+    "type": "rhHDImf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "1.35",
+    "y2010_hdi": "0.46"
+}
+
+{
+    "country": "Bangladesh",
+    "type": "rhHDImf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "2",
+    "y2010_hdi": "0.55"
+}
+
+{
+    "country": "Bhutan",
+    "type": "rhHDImf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "9.08",
+    "y2010_hdi": "0.57"
+}
+
+{
+    "country": "China",
+    "type": "rhHDImf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "4.58",
+    "y2010_hdi": "0.7"
+}
+
+{
+    "country": "Combodia",
+    "type": "rhHDImf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "16.05",
+    "y2010_hdi": "0.54"
+}
+
+{
+    "country": "India",
+    "type": "rhHDImf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "4.18",
+    "y2010_hdi": "0.58"
+}
+
+{
+    "country": "Indonesia",
+    "type": "rhHDImf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "5.62",
+    "y2010_hdi": "0.67"
+}
+
+{
+    "country": "Lao PDR",
+    "type": "rhHDImf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "5.23",
+    "y2010_hdi": "0.55"
+}
+
+{
+    "country": "Malaysia",
+    "type": "rhHDImf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "21.15",
+    "y2010_hdi": "0.77"
+}
+
+{
+    "country": "Maldives",
+    "type": "rhHDImf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "14.23",
+    "y2010_hdi": "0.67"
+}
+
+{
+    "country": "Mongolia",
+    "type": "rhHDImf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "9.88",
+    "y2010_hdi": "0.7"
+}
+
+{
+    "country": "Myanmar",
+    "type": "rhHDImf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "1.53",
+    "y2010_hdi": "0.52"
+}
+
+{
+    "country": "Nepal",
+    "type": "rhHDImf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "2.44",
+    "y2010_hdi": "0.53"
+}
+
+{
+    "country": "Pakistan",
+    "type": "rhHDImf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "2.89",
+    "y2010_hdi": "0.52"
+}
+
+{
+    "country": "Philippines",
+    "type": "rhHDImf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "4.25",
+    "y2010_hdi": "0.67"
+}
+
+{
+    "country": "Thailand",
+    "type": "rhHDImf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "2.83",
+    "y2010_hdi": "0.72"
+}
+
+{
+    "country": "Sri Lanka",
+    "type": "rhHDImf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "12.04",
+    "y2010_hdi": "0.75"
+}
+
+{
+    "country": "Viet Nam",
+    "type": "rhHDImf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "10.58",
+    "y2010_hdi": "0.65"
+}
+
+{
+    "country": "Afghanistan",
+    "type": "rhHDIdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "1.91",
+    "2017_hdi": "0.49"
+}
+
+{
+    "country": "Bangladesh",
+    "type": "rhHDIdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "2.66",
+    "2017_hdi": "0.61"
+}
+
+{
+    "country": "Bhutan",
+    "type": "rhHDIdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "10.36",
+    "2017_hdi": "0.61"
+}
+
+{
+    "country": "China",
+    "type": "rhHDIdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "5.29",
+    "2017_hdi": "0.75"
+}
+
+{
+    "country": "Combodia",
+    "type": "rhHDIdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "24.97",
+    "2017_hdi": "0.58"
+}
+
+{
+    "country": "India",
+    "type": "rhHDIdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "5.54",
+    "2017_hdi": "0.64"
+}
+
+{
+    "country": "Indonesia",
+    "type": "rhHDIdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "7.48",
+    "2017_hdi": "0.7"
+}
+
+{
+    "country": "Lao PDR",
+    "type": "rhHDIdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "11.99",
+    "2017_hdi": "0.6"
+}
+
+{
+    "country": "Malaysia",
+    "type": "rhHDIdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "19.27",
+    "2017_hdi": "0.8"
+}
+
+{
+    "country": "Maldives",
+    "type": "rhHDIdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "6.84",
+    "2017_hdi": "0.72"
+}
+
+{
+    "country": "Mongolia",
+    "type": "rhHDIdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "34.54",
+    "2017_hdi": "0.73"
+}
+
+{
+    "country": "Myanmar",
+    "type": "rhHDIdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "3.52",
+    "2017_hdi": "0.58"
+}
+
+{
+    "country": "Nepal",
+    "type": "rhHDIdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "3.9",
+    "2017_hdi": "0.57"
+}
+
+{
+    "country": "Pakistan",
+    "type": "rhHDIdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "4.45",
+    "2017_hdi": "0.56"
+}
+
+{
+    "country": "Philippines",
+    "type": "rhHDIdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "3.97",
+    "2017_hdi": "0.71"
+}
+
+{
+    "country": "Thailand",
+    "type": "rhHDIdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "5.59",
+    "2017_hdi": "0.76"
+}
+
+{
+    "country": "Sri Lanka",
+    "type": "rhHDIdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "12.73",
+    "2017_hdi": "0.78"
+}
+
+{
+    "country": "Viet Nam",
+    "type": "rhHDIdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "14.66",
+    "2017_hdi": "0.69"
+}
+
+
+{
+    "country": "Afghanistan",
+    "type": "rhHDImf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "1.22",
+    "2017_hdi": "0.49"
+}
+
+{
+    "country": "Bangladesh",
+    "type": "rhHDImf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "2.36",
+    "2017_hdi": "0.61"
+}
+
+{
+    "country": "Bhutan",
+    "type": "rhHDImf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "10.37",
+    "2017_hdi": "0.61"
+}
+
+{
+    "country": "China",
+    "type": "rhHDImf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "3.62",
+    "2017_hdi": "0.75"
+}
+
+{
+    "country": "Combodia",
+    "type": "rhHDImf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "20.88",
+    "2017_hdi": "0.58"
+}
+
+{
+    "country": "India",
+    "type": "rhHDImf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "4.60",
+    "2017_hdi": "0.64"
+}
+
+{
+    "country": "Indonesia",
+    "type": "rhHDImf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "6.25",
+    "2017_hdi": "0.7"
+}
+
+{
+    "country": "Lao PDR",
+    "type": "rhHDImf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "7.53",
+    "2017_hdi": "0.6"
+}
+
+{
+    "country": "Malaysia",
+    "type": "rhHDImf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "24.15",
+    "2017_hdi": "0.8"
+}
+
+{
+    "country": "Maldives",
+    "type": "rhHDImf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "14.52",
+    "2017_hdi": "0.72"
+}
+
+{
+    "country": "Mongolia",
+    "type": "rhHDImf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "13.86",
+    "2017_hdi": "0.73"
+}
+
+{
+    "country": "Myanmar",
+    "type": "rhHDImf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "1.43",
+    "2017_hdi": "0.58"
+}
+
+{
+    "country": "Nepal",
+    "type": "rhHDImf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "2.78",
+    "2017_hdi": "0.57"
+}
+
+{
+    "country": "Pakistan",
+    "type": "rhHDImf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "3.19",
+    "2017_hdi": "0.56"
+}
+
+{
+    "country": "Philippines",
+    "type": "rhHDImf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "4.40",
+    "2017_hdi": "0.71"
+}
+
+{
+    "country": "Thailand",
+    "type": "rhHDImf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "4.11",
+    "2017_hdi": "0.76"
+}
+
+{
+    "country": "Sri Lanka",
+    "type": "rhHDImf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "14.96",
+    "2017_hdi": "0.78"
+}
+
+{
+    "country": "Viet Nam",
+    "type": "rhHDImf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "12.66",
+    "2017_hdi": "0.69"
+}
+
+{
+    "country": "Afghanistan",
+    "type": "rhGDPdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "1.35",
+    "2010_gdp_per_capita": "543.30"
+}
+
+{
+    "country": "Bangladesh",
+    "type": "rhGDPdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "2",
+    "2010_gdp_per_capita": "781.15"
+}
+
+{
+    "country": "Bhutan",
+    "type": "rhGDPdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "9.08",
+    "2010_gdp_per_capita": "2258.19"
+}
+
+{
+    "country": "China",
+    "type": "rhGDPdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "4.58",
+    "2010_gdp_per_capita": "785.50"
+}
+
+{
+    "country": "Combodia",
+    "type": "rhGDPdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "16.05",
+    "2010_gdp_per_capita": "4550.45"
+}
+
+{
+    "country": "India",
+    "type": "rhGDPdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "4.18",
+    "2010_gdp_per_capita": "1357.56"
+}
+
+{
+    "country": "Indonesia",
+    "type": "rhGDPdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "5.62",
+    "2010_gdp_per_capita": "3122.36"
+}
+
+{
+    "country": "Lao PDR",
+    "type": "rhGDPdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "5.23",
+    "2010_gdp_per_capita": "1140.60"
+}
+
+{
+    "country": "Malaysia",
+    "type": "rhGDPdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "21.15",
+    "2010_gdp_per_capita": "9040.57"
+}
+
+{
+    "country": "Maldives",
+    "type": "rhGDPdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "14.23",
+    "2010_gdp_per_capita": "7076.74"
+}
+
+{
+    "country": "Mongolia",
+    "type": "rhGDPdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "9.88",
+    "2010_gdp_per_capita": "2643.29"
+}
+
+{
+    "country": "Myanmar",
+    "type": "rhGDPdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "1.53",
+    "2010_gdp_per_capita": "1018.13"
+}
+
+{
+    "country": "Nepal",
+    "type": "rhGDPdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "2.44",
+    "2010_gdp_per_capita": "592.40"
+}
+
+{
+    "country": "Pakistan",
+    "type": "rhGDPdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "2.89",
+    "2010_gdp_per_capita": "987.41"
+}
+
+{
+    "country": "Philippines",
+    "type": "rhGDPdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "4.25",
+    "2010_gdp_per_capita": "2217.47"
+}
+
+{
+    "country": "Thailand",
+    "type": "rhGDPdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "2.83",
+    "2010_gdp_per_capita": "2799.65"
+}
+
+{
+    "country": "Sri Lanka",
+    "type": "rhGDPdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "12.04",
+    "2010_gdp_per_capita": "5076.34"
+}
+
+{
+    "country": "Viet Nam",
+    "type": "rhGDPdmc2010",
+    "indicator": "Human Development Index (HDI)",
+    "y2010_dmc_per_capita": "10.58",
+    "2010_gdp_per_capita": "1317.89"
+}
+
+{
+    "country": "Afghanistan",
+    "type": "rhGDPdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "1.22",
+    "2017_gdp_per_capita": "519.89"
+}
+
+{
+    "country": "Bangladesh",
+    "type": "rhGDPdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "2.36",
+    "2017_gdp_per_capita": "1563.77"
+}
+
+{
+    "country": "Bhutan",
+    "type": "rhGDPdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "10.37",
+    "2017_gdp_per_capita": "3286.60"
+}
+
+{
+    "country": "China",
+    "type": "rhGDPdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "3.62",
+    "2017_gdp_per_capita": "1385.26"
+}
+
+{
+    "country": "Combodia",
+    "type": "rhGDPdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "20.88",
+    "2017_gdp_per_capita": "8879.44"
+}
+
+{
+    "country": "India",
+    "type": "rhGDPdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "4.60",
+    "2017_gdp_per_capita": "1980.67"
+}
+
+{
+    "country": "Indonesia",
+    "type": "rhGDPdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "6.25",
+    "2017_gdp_per_capita": "3837.58"
+}
+
+{
+    "country": "Lao PDR",
+    "type": "rhGDPdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "7.53",
+    "2017_gdp_per_capita": "2423.85"
+}
+
+{
+    "country": "Malaysia",
+    "type": "rhGDPdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "24.15",
+    "2017_gdp_per_capita": "10259.30"
+}
+
+{
+    "country": "Maldives",
+    "type": "rhGDPdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "14.52",
+    "2017_gdp_per_capita": "9577.70"
+}
+
+{
+    "country": "Mongolia",
+    "type": "rhGDPdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "13.86",
+    "2017_gdp_per_capita": "3669.41"
+}
+
+{
+    "country": "Myanmar",
+    "type": "rhGDPdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "1.43",
+    "2017_gdp_per_capita": "1257.80"
+}
+
+{
+    "country": "Nepal",
+    "type": "rhGDPdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "2.78",
+    "2017_gdp_per_capita": "1048.45"
+}
+
+{
+    "country": "Pakistan",
+    "type": "rhGDPdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "3.19",
+    "2017_gdp_per_capita": "1464.93"
+}
+
+{
+    "country": "Philippines",
+    "type": "rhGDPdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "4.40",
+    "2017_gdp_per_capita": "3123.25"
+}
+
+{
+    "country": "Thailand",
+    "type": "rhGDPdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "4.11",
+    "2017_gdp_per_capita": "4076.75"
+}
+
+{
+    "country": "Sri Lanka",
+    "type": "rhGDPdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "14.96",
+    "2017_gdp_per_capita": "6593.83"
+}
+
+{
+    "country": "Viet Nam",
+    "type": "rhGDPdmc2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_dmc_per_capita": "12.66",
+    "2017_gdp_per_capita": "2365.52"
+}
+
+{
+    "country": "Afghanistan",
+    "type": "rhGDPmf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "1.35",
+    "2010_gdp_per_capita": "543.30"
+}
+
+{
+    "country": "Bangladesh",
+    "type": "rhGDPmf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "2",
+    "2010_gdp_per_capita": "781.15"
+}
+
+{
+    "country": "Bhutan",
+    "type": "rhGDPmf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "9.08",
+    "2010_gdp_per_capita": "2258.19"
+}
+
+{
+    "country": "China",
+    "type": "rhGDPmf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "4.58",
+    "2010_gdp_per_capita": "785.50"
+}
+
+{
+    "country": "Combodia",
+    "type": "rhGDPmf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "16.05",
+    "2010_gdp_per_capita": "4550.45"
+}
+
+{
+    "country": "India",
+    "type": "rhGDPmf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "4.18",
+    "2010_gdp_per_capita": "1357.56"
+}
+
+{
+    "country": "Indonesia",
+    "type": "rhGDPmf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "5.62",
+    "2010_gdp_per_capita": "3122.36"
+}
+
+{
+    "country": "Lao PDR",
+    "type": "rhGDPmf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "5.23",
+    "2010_gdp_per_capita": "1140.60"
+}
+
+{
+    "country": "Malaysia",
+    "type": "rhGDPmf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "21.15",
+    "2010_gdp_per_capita": "9040.57"
+}
+
+{
+    "country": "Maldives",
+    "type": "rhGDPmf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "14.23",
+    "2010_gdp_per_capita": "7076.74"
+}
+
+{
+    "country": "Mongolia",
+    "type": "rhGDPmf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "9.88",
+    "2010_gdp_per_capita": "2643.29"
+}
+
+{
+    "country": "Myanmar",
+    "type": "rhGDPmf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "1.53",
+    "2010_gdp_per_capita": "1018.13"
+}
+
+{
+    "country": "Nepal",
+    "type": "rhGDPmf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "2.44",
+    "2010_gdp_per_capita": "592.40"
+}
+
+{
+    "country": "Pakistan",
+    "type": "rhGDPmf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "2.89",
+    "2010_gdp_per_capita": "987.41"
+}
+
+{
+    "country": "Philippines",
+    "type": "rhGDPmf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "4.25",
+    "2010_gdp_per_capita": "2217.47"
+}
+
+{
+    "country": "Thailand",
+    "type": "rhGDPmf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "2.83",
+    "2010_gdp_per_capita": "2799.65"
+}
+
+{
+    "country": "Sri Lanka",
+    "type": "rhGDPmf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "12.04",
+    "2010_gdp_per_capita": "5076.34"
+}
+
+{
+    "country": "Viet Nam",
+    "type": "rhGDPmf2010",
+    "indicator": "Human Development Index (HDI)",
+    "2010_mf_per_capita": "10.58",
+    "2010_gdp_per_capita": "1317.89"
+}
+
+{
+    "country": "Afghanistan",
+    "type": "rhGDPmf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "1.22",
+    "2017_gdp_per_capita": "519.89"
+}
+
+{
+    "country": "Bangladesh",
+    "type": "rhGDPmf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "2.36",
+    "2017_gdp_per_capita": "1563.77"
+}
+
+{
+    "country": "Bhutan",
+    "type": "rhGDPmf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "10.37",
+    "2017_gdp_per_capita": "3286.60"
+}
+
+{
+    "country": "China",
+    "type": "rhGDPmf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "3.62",
+    "2017_gdp_per_capita": "1385.26"
+}
+
+{
+    "country": "Combodia",
+    "type": "rhGDPmf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "20.88",
+    "2017_gdp_per_capita": "8879.44"
+}
+
+{
+    "country": "India",
+    "type": "rhGDPmf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "4.60",
+    "2017_gdp_per_capita": "1980.67"
+}
+
+{
+    "country": "Indonesia",
+    "type": "rhGDPmf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "6.25",
+    "2017_gdp_per_capita": "3837.58"
+}
+
+{
+    "country": "Lao PDR",
+    "type": "rhGDPmf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "7.53",
+    "2017_gdp_per_capita": "2423.85"
+}
+
+{
+    "country": "Malaysia",
+    "type": "rhGDPmf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "24.15",
+    "2017_gdp_per_capita": "10259.30"
+}
+
+{
+    "country": "Maldives",
+    "type": "rhGDPmf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "14.52",
+    "2017_gdp_per_capita": "9577.70"
+}
+
+{
+    "country": "Mongolia",
+    "type": "rhGDPmf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "13.86",
+    "2017_gdp_per_capita": "3669.41"
+}
+
+{
+    "country": "Myanmar",
+    "type": "rhGDPmf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "1.43",
+    "2017_gdp_per_capita": "1257.80"
+}
+
+{
+    "country": "Nepal",
+    "type": "rhGDPmf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "2.78",
+    "2017_gdp_per_capita": "1048.45"
+}
+
+{
+    "country": "Pakistan",
+    "type": "rhGDPmf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "3.19",
+    "2017_gdp_per_capita": "1464.93"
+}
+
+{
+    "country": "Philippines",
+    "type": "rhGDPmf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "4.40",
+    "2017_gdp_per_capita": "3123.25"
+}
+
+{
+    "country": "Thailand",
+    "type": "rhGDPmf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "4.11",
+    "2017_gdp_per_capita": "4076.75"
+}
+
+{
+    "country": "Sri Lanka",
+    "type": "rhGDPmf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "14.96",
+    "2017_gdp_per_capita": "6593.82"
+}
+
+{
+    "country": "Viet Nam",
+    "type": "rhGDPmf2017",
+    "indicator": "Human Development Index (HDI)",
+    "2017_mf_per_capita": "12.66",
+    "2017_gdp_per_capita": "2365.52"
+}
+
+
+{
+    "country": "China",
+    "type": "rhfdiIndiaChina",
+    "indicator": "Investment and consumption",
+    "y1990": "3487000000",
+    "y2000": "42095300000",
+    "y2011": "280072219149.935",
+    "y2012": "241213868161.42",
+    "y2013": "290928431467.003",
+    "y2014": "268097181064.335",
+    "y2015": "242489331627.399",
+    "y2016": "174749584584.051",
+    "y2017": "166083755721.649",
+    "y2018": "235365050036.341",
+    "y2019": "187169822364.755"
+}
+
+{
+    "country": "India",
+    "type": "rhfdiIndiaChina",
+    "indicator": "Investment and consumption",
+    "y1990": "236690000",
+    "y2000": "3584217307.18756",
+    "y2011": "36498654597.8589",
+    "y2012": "23995685014.2142",
+    "y2013": "28153031270.3203",
+    "y2014": "34576643694.1383",
+    "y2015": "44009492129.5319",
+    "y2016": "44458571545.798",
+    "y2017": "39966091358.7384",
+    "y2018": "42117450737.2644",
+    "y2019": "50610647353.5912"
+}
+
+{
+    "country": "Afghanistan",
+    "type": "rhfdiAsiaPacific",
+    "indicator": "Investment and consumption",
+    "y1990": "10",
+    "y2000": "170000",
+    "y2011": "52173421",
+    "y2012": "56823660",
+    "y2013": "48311346",
+    "y2014": "42975262.5",
+    "y2015": "169146608",
+    "y2016": "93591315.3",
+    "y2017": "51533896.765",
+    "y2018": "119435105.715177",
+    "y2019": "23404553.647249"
+}
+
+{
+    "country": "Bangladesh",
+    "type": "rhfdiAsiaPacific",
+    "indicator": "Investment and consumption",
+    "y1990": "3238781.18895631",
+    "y2000": "280384629.677983",
+    "y2011": "1264725163.33408",
+    "y2012": "1584403459.98466",
+    "y2013": "2602962095.36816",
+    "y2014": "2539190939.6837",
+    "y2015": "2831152765.15515",
+    "y2016": "2332724780.71108",
+    "y2017": "1810395803.56746",
+    "y2018": "2421626238.43717",
+    "y2019": "1908045387.02685"
+}
+
+{
+    "country": "Bhutan",
+    "type": "rhfdiAsiaPacific",
+    "indicator": "Investment and consumption",
+    "y1990": "1600000",
+    "y2011": "31141614.8601365",
+    "y2012": "24380673.5733894",
+    "y2013": "20433631.0650379",
+    "y2014": "23534931.751976",
+    "y2015": "6450953.8497443",
+    "y2016": "11884162.3485119",
+    "y2017": "-16553759.9525493",
+    "y2018": "2649454.31118453",
+    "y2019": "13011377.2857268"
+}
+
+{
+    "country": "Cambodia",
+    "type": "rhfdiAsiaPacific",  
+    "indicator": "Investment and consumption",  
+    "y2000": "118308566.310881",
+    "y2011": "1538883424.90021",
+    "y2012": "1988102944.64495",
+    "y2013": "2068470774.00468",
+    "y2014": "1853471158.09921",
+    "y2015": "1822804151.25712",
+    "y2016": "2475915853.65763",
+    "y2017": "2788084321.65816",
+    "y2018": "3212633447.0447",
+    "y2019": "3663032999.47048"
+}
+
+{
+    "country": "Indonesia",
+    "type": "rhfdiAsiaPacific",
+    "indicator": "Investment and consumption",
+    "y1990": "1093000000",
+    "y2000": "-4550355285.71428",
+    "y2011": "20564938226.7185",
+    "y2012": "21200778607.8727",
+    "y2013": "23281742361.5305",
+    "y2014": "25120732059.5134",
+    "y2015": "19779127976.9576",
+    "y2016": "4541713739.23769",
+    "y2017": "20510310832.4469",
+    "y2018": "18909826043.5105",
+    "y2019": "24993551748.0098"
+}
+
+{
+    "country": "Lao PDR",
+    "type": "rhfdiAsiaPacific",
+    "indicator": "Investment and consumption",
+    "y1990": "6000000",
+    "y2000": "33890000",
+    "y2011": "300743507.13",
+    "y2012": "617755394.539664",
+    "y2013": "681397257.103792",
+    "y2014": "867646121.708671",
+    "y2015": "1077759914.58895",
+    "y2016": "935296172.783645",
+    "y2017": "1693080810.93877",
+    "y2018": "1358019506.22958",
+    "y2019": "755524124.249368"
+}
+
+{
+    "country": "Malaysia",
+    "type": "rhfdiAsiaPacific",
+    "indicator": "Investment and consumption",
+    "y1990": "2332455289.06142",
+    "y2000": "3787631578.94737",
+    "y2011": "15119439203.9543",
+    "y2012": "8895774250.70402",
+    "y2013": "11296279513.9209",
+    "y2014": "10619431582.9781",
+    "y2015": "9857162111.82329",
+    "y2016": "13470089920.807",
+    "y2017": "9368469822.66146",
+    "y2018": "8304480741.65267",
+    "y2019": "9101052111.36137"
+}
+
+{
+    "country": "Maldives",
+    "type": "rhfdiAsiaPacific",
+    "indicator": "Investment and consumption",
+    "y1990": "5600000",
+    "y2000": "22312447.8248753",
+    "y2011": "423530663.953749",
+    "y2012": "227976866.718899",
+    "y2013": "360816336.210787",
+    "y2014": "333375218.034334",
+    "y2015": "297975993.392527",
+    "y2016": "456639057.30469",
+    "y2017": "457808313.566538",
+    "y2018": "575658028.152192",
+    "y2019": "961146508.814222"
+}
+
+{
+    "country": "Mongolia",
+    "type": "rhfdiAsiaPacific",
+    "indicator": "Investment and consumption",
+    "y2000": "53697000",
+    "y2011": "4571161962.80891",
+    "y2012": "4272473222.93625",
+    "y2013": "2059702972.91978",
+    "y2014": "337768268.083172",
+    "y2015": "94319767.4741563",
+    "y2016": "4156404703.77687",
+    "y2017": "1494350363.46922",
+    "y2018": "1951528195.81853",
+    "y2019": "2443343095.41815"
+}
+
+{
+    "country": "Myanmar",
+    "type": "rhfdiAsiaPacific",
+    "indicator": "Investment and consumption",
+    "y1990": "161144560.314889",
+    "y2000": "254789765.469466",
+    "y2011": "2519813313.27459",
+    "y2012": "1333856137.27031",
+    "y2013": "2254603965.49345",
+    "y2014": "2175015283.77713",
+    "y2015": "4083839111.71186",
+    "y2016": "3278096409.87385",
+    "y2017": "4804272487.31986",
+    "y2018": "1768195522.55912",
+    "y2019": "1735589412.93376"
+}
+
+{
+    "country": "Nepal",
+    "type": "rhfdiAsiaPacific",
+    "indicator": "Investment and consumption",
+    "y1990": "5940000",
+    "y2000": "-484826.712274881",
+    "y2011": "94022157.1167852",
+    "y2012": "91954196.0964528",
+    "y2013": "74179632.6147952",
+    "y2014": "30402676.784735",
+    "y2015": "51895699.9282915",
+    "y2016": "105996375.590659",
+    "y2017": "196265098.563575",
+    "y2018": "68186670.7450293",
+    "y2019": "185554758.669659"
+}
+
+{
+    "country": "Pakistan",
+    "type": "rhfdiAsiaPacific",
+    "indicator": "Investment and consumption",
+    "y1990": "245262963.460759",
+    "y2000": "308000000",
+    "y2011": "1326000000",
+    "y2012": "859000000",
+    "y2013": "1333000000",
+    "y2014": "1887000000",
+    "y2015": "1673000000",
+    "y2016": "2576000000",
+    "y2017": "2496000000",
+    "y2018": "1737000000",
+    "y2019": "2234000000"
+}
+
+{
+    "country": "Philippines",
+    "type": "rhfdiAsiaPacific",
+    "indicator": "Investment and consumption",
+    "y1990": "530000000",
+    "y2000": "1487000000",
+    "y2011": "2007150725.40003",
+    "y2012": "3215415155.43567",
+    "y2013": "3737371739.84519",
+    "y2014": "5739574024.13183",
+    "y2015": "5639155961.87389",
+    "y2016": "8279548274.88501",
+    "y2017": "10256442398.8834",
+    "y2018": "9948598823.96867",
+    "y2019": "8671365873.65689"
+}
+
+{
+    "country": "Sri Lanka",
+    "type": "rhfdiAsiaPacific",
+    "indicator": "Investment and consumption",
+    "y1990": "43355119.7231",
+    "y2000": "172941409.8305",
+    "y2011": "955920000",
+    "y2012": "941116591.230408",
+    "y2013": "932551317.582881",
+    "y2014": "893628980.287065",
+    "y2015": "679655644.244789",
+    "y2016": "897049375.883533",
+    "y2017": "1372723043.13402",
+    "y2018": "1614044009.22884",
+    "y2019": "758186663.222055"
+}
+
+{
+    "country": "Thailand",
+    "type": "rhfdiAsiaPacific",
+    "indicator": "Investment and consumption",
+    "y1990": "2443549743.00901",
+    "y2000": "3365987582.5831",
+    "y2011": "2473685995.7",
+    "y2012": "12899036062.7558",
+    "y2013": "15935960664.8073",
+    "y2014": "4975455660.4459",
+    "y2015": "8927579182.16217",
+    "y2016": "3486184390.30069",
+    "y2017": "8285169819.69135",
+    "y2018": "13186328517.835",
+    "y2019": "4816635831.57632"
+}
+
+{
+    "country": "Vietnam",
+    "type": "rhfdiAsiaPacific",
+    "indicator": "Investment and consumption",
+    "y1990": "180000000",
+    "y2000": "1298000000",
+    "y2011": "7430000000",
+    "y2012": "8368000000",
+    "y2013": "8900000000",
+    "y2014": "9200000000",
+    "y2015": "11800000000",
+    "y2016": "12600000000",
+    "y2017": "14100000000",
+    "y2018": "15500000000",
+    "y2019": "16120000000"
+}
+
+{
+    "country": "Afghanistan",
+    "type": "rhgggasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "7.7",
+    "y2015": "9.2",
+    "y2018": "7.4"
+}
+
+{
+    "country": "Bangladesh",
+    "type": "rhgggasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "35.5",
+    "y2015": "33.7",
+    "y2018": "34.6"
+}
+
+{
+    "country": "Bhutan",
+    "type": "rhgggasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "61",
+    "y2015": "98.6",
+    "y2018": "110.5"
+}
+
+{
+    "country": "Cambodia",
+    "type": "rhgggasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "28.7",
+    "y2015": "31.2",
+    "y2018": "28.6"
+}
+
+{
+    "country": "China",
+    "type": "rhgggasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "33.9",
+    "y2015": "41.5",
+    "y2018": "53.8"
+}
+
+{
+    "country": "India",
+    "type": "rhgggasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "66",
+    "y2015": "68.8",
+    "y2018": "70.2"
+}
+
+{
+    "country": "Indonesia",
+    "type": "rhgggasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "24.5",
+    "y2015": "27",
+    "y2018": "30.4"
+}
+
+
+{
+    "country": "Lao P.D.R.",
+    "type": "rhgggasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "49.3",
+    "y2015": "53.1",
+    "y2018": "59.7"
+}
+
+{
+    "country": "Malaysia",
+    "type": "rhgggasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "51.2",
+    "y2015": "57",
+    "y2018": "55.7"
+}
+
+{
+    "country": "Maldives",
+    "type": "rhgggasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "52.7",
+    "y2015": "54.9",
+    "y2018": "71.5"
+}
+
+{
+    "country": "Mongolia",
+    "type": "rhgggasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "31",
+    "y2015": "62.1",
+    "y2018": "74.3"
+}
+
+{
+    "country": "Myanmar",
+    "type": "rhgggasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "52.5",
+    "y2015": "36.4",
+    "y2018": "40.4"
+}
+
+{
+    "country": "Nepal",
+    "type": "rhgggasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "35.3",
+    "y2015": "25.7",
+    "y2018": "30.1"
+}
+
+{
+    "country": "Pakistan",
+    "type": "rhgggasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "60.7",
+    "y2015": "63.3",
+    "y2018": "72.1"
+}
+
+{
+    "country": "Philippines",
+    "type": "rhgggasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "47.6",
+    "y2015": "39.6",
+    "y2018": "37.1"
+}
+
+{
+    "country": "Sri Lanka",
+    "type": "rhgggasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "71.6",
+    "y2015": "78.5",
+    "y2018": "84.2"
+}
+
+{
+    "country": "Thailand",
+    "type": "rhgggasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "39.8",
+    "y2015": "42.6",
+    "y2018": "42"
+}
+
+{
+    "country": "Vietnam",
+    "type": "rhgggasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "36.8",
+    "y2015": "46.1",
+    "y2018": "43.6"
+}
+
+{
+    "country": "Afghanistan",
+    "type": "rhirasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "2.2",
+    "y2015": "-0.7",
+    "y2018": "0.6"
+}
+
+{
+    "country": "Bangladesh",
+    "type": "rhirasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "6.8",
+    "y2015": "6.4",
+    "y2018": "5.8"
+}
+
+{
+    "country": "Bhutan",
+    "type": "rhirasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "4.8",
+    "y2015": "6.7",
+    "y2018": "3.7"
+}
+
+
+{
+    "country": "Cambodia",
+    "type": "rhirasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "4",
+    "y2015": "1.2",
+    "y2018": "2.4"
+}
+
+{
+    "country": "China",
+    "type": "rhirasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "3.3",
+    "y2015": "1.4",
+    "y2018": "2.1"
+}
+
+{
+    "country": "India",
+    "type": "rhirasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "10.5",
+    "y2015": "4.9",
+    "y2018": "3.4"
+}
+
+{
+    "country": "Indonesia",
+    "type": "rhirasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "5.1",
+    "y2015": "6.4",
+    "y2018": "3.3"
+}
+
+{
+    "country": "Lao P.D.R.",
+    "type": "rhirasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "6",
+    "y2015": "1.3",
+    "y2018": "2"
+}
+
+{
+    "country": "Malaysia",
+    "type": "rhirasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "1.7",
+    "y2015": "2.1",
+    "y2018": "1"
+}
+
+{
+    "country": "Maldives",
+    "type": "rhirasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "6.1",
+    "y2015": "1.4",
+    "y2018": "1.4"
+}
+
+
+{
+    "country": "Mongolia",
+    "type": "rhirasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "10",
+    "y2015": "5.7",
+    "y2018": "6.8"
+}
+
+{
+    "country": "Myanmar",
+    "type": "rhirasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "5.9",
+    "y2015": "7.3",
+    "y2018": "5.9"
+}
+
+{
+    "country": "Nepal",
+    "type": "rhirasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "9.6",
+    "y2015": "7.2",
+    "y2018": "4.1"
+}
+
+{
+    "country": "Pakistan",
+    "type": "rhirasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "10.1",
+    "y2015": "4.5",
+    "y2018": "3.9"
+}
+
+{
+    "country": "Philippines",
+    "type": "rhirasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "3.8",
+    "y2015": "0.7",
+    "y2018": "5.2"
+}
+
+{
+    "country": "Sri Lanka",
+    "type": "rhirasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "6.2",
+    "y2015": "2.2",
+    "y2018": "4.3"
+}
+
+{
+    "country": "Thailand",
+    "type": "rhirasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "3.3",
+    "y2015": "-0.9",
+    "y2018": "1.1"
+}
+
+{
+    "country": "Vietnam",
+    "type": "rhirasiapacificdeveloping",
+    "indicator": "Debt, inflation",
+    "y2010": "9.2",
+    "y2015": "0.6",
+    "y2018": "3.5"
+}
+
+{
+    "country": "Afghanistan",
+    "type": "rhaeasiapacific",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "2.45",
+    "y2019": "97.7"
+}
+
+{
+    "country": "Bangladesh",
+    "type": "rhaeasiapacific",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "32",
+    "y2019": "92.2"
+}
+
+{
+    "country": "Bhutan",
+    "type": "rhaeasiapacific",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "31.15",
+    "y2019": "100"
+}
+
+{
+    "country": "Cambodia",
+    "type": "rhaeasiapacific",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "16.6",
+    "y2019": "93"
+}
+
+{
+    "country": "China",
+    "type": "rhaeasiapacific",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "96.93",
+    "y2019": "100"
+}
+
+{
+    "country": "India",
+    "type": "rhaeasiapacific",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "59.34",
+    "y2019": "97.82"
+}
+
+{
+    "country": "Indonesia",
+    "type": "rhaeasiapacific",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "86.3",
+    "y2019": "98.85"
+}
+
+{
+    "country": "Lao PDR",
+    "type": "rhaeasiapacific",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "42.48",
+    "y2019": "100"
+}
+
+{
+    "country": "Maldives",
+    "type": "rhaeasiapacific",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "83.8",
+    "y2019": "100"
+}
+
+{
+    "country": "Malaysia",
+    "type": "rhaeasiapacific",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "98.67",
+    "y2019": "100"
+}
+
+{
+    "country": "Myanmar",
+    "type": "rhaeasiapacific",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "44.49",
+    "y2019": "68.36"
+}
+
+{
+    "country": "Mongolia",
+    "type": "rhaeasiapacific",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "67.3",
+    "y2019": "99.13"
+}
+
+{
+    "country": "Nepal",
+    "type": "rhaeasiapacific",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "28.92",
+    "y2019": "89.9"
+}
+
+{
+    "country": "Pakistan",
+    "type": "rhaeasiapacific",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "70.35",
+    "y2019": "73.91"
+}
+
+{
+    "country": "Philippines",
+    "type": "rhaeasiapacific",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "74.65",
+    "y2019": "95.63"
+}
+
+{
+    "country": "Sri Lanka",
+    "type": "rhaeasiapacific",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "61.58",
+    "y2019": "100"
+}
+
+{
+    "country": "Thailand",
+    "type": "rhaeasiapacific",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "82.1",
+    "y2019": "99.9"
+}
+
+{
+    "country": "Vietnam",
+    "type": "rhaeasiapacific",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "87.81",
+    "y2019": "99.4"
+}
+
+{
+    "country": "Afghanistan",
+    "type": "rhawater",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "11",
+    "y2020": "28"
+}
+
+{
+    "country": "Bangladesh",
+    "type": "rhawater",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "55",
+    "y2020": "59"
+}
+
+{
+    "country": "Bhutan",
+    "type": "rhawater",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "29",
+    "y2020": "37"
+}
+
+
+{
+    "country": "Cambodia",
+    "type": "rhawater",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "17",
+    "y2020": "28"
+}
+
+{
+    "country": "China",
+    "type": "rhawater",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "90",
+    "y2020": "95"
+}
+
+{
+    "country": "India",
+    "type": "rhawater",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "29",
+    "y2020": "56"
+}
+
+{
+    "country": "Lao PDR",
+    "type": "rhawater",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "5",
+    "y2020": "18"
+}
+
+{
+    "country": "Maldives",
+    "type": "rhawater",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "93",
+    "y2020": "94"
+}
+
+{
+    "country": "Mongolia",
+    "type": "rhawater",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "27",
+    "y2020": "59"
+}
+
+{
+    "country": "Myanmar",
+    "type": "rhawater",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "21",
+    "y2020": "30"
+}
+
+{
+    "country": "Nepal",
+    "type": "rhawater",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "27",
+    "y2020": "18"
+}
+
+{
+    "country": "Pakistan",
+    "type": "rhawater",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "37",
+    "y2020": "36"
+}
+
+{
+    "country": "Philippines",
+    "type": "rhawater",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "36",
+    "y2020": "47"
+}
+
+{
+    "country": "Sri Lanka",
+    "type": "rhawater",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "84",
+    "y2020": "93"
+}
+
+{
+    "country": "Bangladesh",
+    "type": "rhasanitation",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "18",
+    "y2020": "39"
+}
+
+{
+    "country": "Bhutan",
+    "type": "rhasanitation",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "62",
+    "y2020": "65"
+}
+
+{
+    "country": "China",
+    "type": "rhasanitation",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "13",
+    "y2020": "70"
+}
+
+{
+    "country": "India",
+    "type": "rhasanitation",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "7",
+    "y2020": "46"
+}
+
+{
+    "country": "Lao PDR",
+    "type": "rhasanitation",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "22",
+    "y2020": "61"
+}
+
+{
+    "country": "Maldives",
+    "type": "rhasanitation",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "66",
+    "y2020": "80"
+}
+
+{
+    "country": "Mongolia",
+    "type": "rhasanitation",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "58",
+    "y2020": "61"
+}
+
+{
+    "country": "Myanmar",
+    "type": "rhasanitation",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "33",
+    "y2020": "56"
+}
+
+{
+    "country": "Nepal",
+    "type": "rhasanitation",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "9",
+    "y2020": "49"
+}
+
+{
+    "country": "Philippines",
+    "type": "rhasanitation",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "43",
+    "y2020": "61"
+}
+
+{
+    "country": "Thailand",
+    "type": "rhasanitation",
+    "indicator": "Access to energy, water, sanitation",
+    "y2000": "20",
+    "y2020": "26"
+}
+
+{
+    "country": "Afghanistan",
+    "type": "rhGDPdmc2010",
+    "indicator": "Economic Growth (GDP)",
+    "y2010_dmc_per_capita": "1.35",
+    "2010_gdp_per_capita": "543.30"
+}
+
+{
+    "country": "Bangladesh",
+    "type": "rhGDPdmc2010",
+    "indicator": "Economic Growth (GDP)",
+    "y2010_dmc_per_capita": "2",
+    "2010_gdp_per_capita": "781.15"
+}
+
+{
+    "country": "Bhutan",
+    "type": "rhGDPdmc2010",
+    "indicator": "Economic Growth (GDP)",
+    "y2010_dmc_per_capita": "9.08",
+    "2010_gdp_per_capita": "2258.19"
+}
+
+{
+    "country": "China",
+    "type": "rhGDPdmc2010",
+    "indicator": "Economic Growth (GDP)",
+    "y2010_dmc_per_capita": "4.58",
+    "2010_gdp_per_capita": "785.50"
+}
+
+{
+    "country": "Combodia",
+    "type": "rhGDPdmc2010",
+    "indicator": "Economic Growth (GDP)",
+    "y2010_dmc_per_capita": "16.05",
+    "2010_gdp_per_capita": "4550.45"
+}
+
+{
+    "country": "India",
+    "type": "rhGDPdmc2010",
+    "indicator": "Economic Growth (GDP)",
+    "y2010_dmc_per_capita": "4.18",
+    "2010_gdp_per_capita": "1357.56"
+}
+
+{
+    "country": "Indonesia",
+    "type": "rhGDPdmc2010",
+    "indicator": "Economic Growth (GDP)",
+    "y2010_dmc_per_capita": "5.62",
+    "2010_gdp_per_capita": "3122.36"
+}
+
+{
+    "country": "Lao PDR",
+    "type": "rhGDPdmc2010",
+    "indicator": "Economic Growth (GDP)",
+    "y2010_dmc_per_capita": "5.23",
+    "2010_gdp_per_capita": "1140.60"
+}
+
+{
+    "country": "Malaysia",
+    "type": "rhGDPdmc2010",
+    "indicator": "Economic Growth (GDP)",
+    "y2010_dmc_per_capita": "21.15",
+    "2010_gdp_per_capita": "9040.57"
+}
+
+{
+    "country": "Maldives",
+    "type": "rhGDPdmc2010",
+    "indicator": "Economic Growth (GDP)",
+    "y2010_dmc_per_capita": "14.23",
+    "2010_gdp_per_capita": "7076.74"
+}
+
+{
+    "country": "Mongolia",
+    "type": "rhGDPdmc2010",
+    "indicator": "Economic Growth (GDP)",
+    "y2010_dmc_per_capita": "9.88",
+    "2010_gdp_per_capita": "2643.29"
+}
+
+{
+    "country": "Myanmar",
+    "type": "rhGDPdmc2010",
+    "indicator": "Economic Growth (GDP)",
+    "y2010_dmc_per_capita": "1.53",
+    "2010_gdp_per_capita": "1018.13"
+}
+
+{
+    "country": "Nepal",
+    "type": "rhGDPdmc2010",
+    "indicator": "Economic Growth (GDP)",
+    "y2010_dmc_per_capita": "2.44",
+    "2010_gdp_per_capita": "592.40"
+}
+
+{
+    "country": "Pakistan",
+    "type": "rhGDPdmc2010",
+    "indicator": "Economic Growth (GDP)",
+    "y2010_dmc_per_capita": "2.89",
+    "2010_gdp_per_capita": "987.41"
+}
+
+{
+    "country": "Philippines",
+    "type": "rhGDPdmc2010",
+    "indicator": "Economic Growth (GDP)",
+    "y2010_dmc_per_capita": "4.25",
+    "2010_gdp_per_capita": "2217.47"
+}
+
+{
+    "country": "Thailand",
+    "type": "rhGDPdmc2010",
+    "indicator": "Economic Growth (GDP)",
+    "y2010_dmc_per_capita": "2.83",
+    "2010_gdp_per_capita": "2799.65"
+}
+
+{
+    "country": "Sri Lanka",
+    "type": "rhGDPdmc2010",
+    "indicator": "Economic Growth (GDP)",
+    "y2010_dmc_per_capita": "12.04",
+    "2010_gdp_per_capita": "5076.34"
+}
+
+{
+    "country": "Viet Nam",
+    "type": "rhGDPdmc2010",
+    "indicator": "Economic Growth (GDP)",
+    "y2010_dmc_per_capita": "10.58",
+    "2010_gdp_per_capita": "1317.89"
+}
+
+{
+    "country": "Afghanistan",
+    "type": "rhGDPdmc2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_dmc_per_capita": "1.22",
+    "2017_gdp_per_capita": "519.89"
+}
+
+{
+    "country": "Bangladesh",
+    "type": "rhGDPdmc2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_dmc_per_capita": "2.36",
+    "2017_gdp_per_capita": "1563.77"
+}
+
+{
+    "country": "Bhutan",
+    "type": "rhGDPdmc2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_dmc_per_capita": "10.37",
+    "2017_gdp_per_capita": "3286.60"
+}
+
+{
+    "country": "China",
+    "type": "rhGDPdmc2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_dmc_per_capita": "3.62",
+    "2017_gdp_per_capita": "1385.26"
+}
+
+{
+    "country": "Combodia",
+    "type": "rhGDPdmc2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_dmc_per_capita": "20.88",
+    "2017_gdp_per_capita": "8879.44"
+}
+
+{
+    "country": "India",
+    "type": "rhGDPdmc2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_dmc_per_capita": "4.60",
+    "2017_gdp_per_capita": "1980.67"
+}
+
+{
+    "country": "Indonesia",
+    "type": "rhGDPdmc2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_dmc_per_capita": "6.25",
+    "2017_gdp_per_capita": "3837.58"
+}
+
+{
+    "country": "Lao PDR",
+    "type": "rhGDPdmc2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_dmc_per_capita": "7.53",
+    "2017_gdp_per_capita": "2423.85"
+}
+
+{
+    "country": "Malaysia",
+    "type": "rhGDPdmc2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_dmc_per_capita": "24.15",
+    "2017_gdp_per_capita": "10259.30"
+}
+
+{
+    "country": "Maldives",
+    "type": "rhGDPdmc2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_dmc_per_capita": "14.52",
+    "2017_gdp_per_capita": "9577.70"
+}
+
+{
+    "country": "Mongolia",
+    "type": "rhGDPdmc2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_dmc_per_capita": "13.86",
+    "2017_gdp_per_capita": "3669.41"
+}
+
+{
+    "country": "Myanmar",
+    "type": "rhGDPdmc2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_dmc_per_capita": "1.43",
+    "2017_gdp_per_capita": "1257.80"
+}
+
+{
+    "country": "Nepal",
+    "type": "rhGDPdmc2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_dmc_per_capita": "2.78",
+    "2017_gdp_per_capita": "1048.45"
+}
+
+{
+    "country": "Pakistan",
+    "type": "rhGDPdmc2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_dmc_per_capita": "3.19",
+    "2017_gdp_per_capita": "1464.93"
+}
+
+{
+    "country": "Philippines",
+    "type": "rhGDPdmc2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_dmc_per_capita": "4.40",
+    "2017_gdp_per_capita": "3123.25"
+}
+
+{
+    "country": "Thailand",
+    "type": "rhGDPdmc2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_dmc_per_capita": "4.11",
+    "2017_gdp_per_capita": "4076.75"
+}
+
+{
+    "country": "Sri Lanka",
+    "type": "rhGDPdmc2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_dmc_per_capita": "14.96",
+    "2017_gdp_per_capita": "6593.83"
+}
+
+{
+    "country": "Viet Nam",
+    "type": "rhGDPdmc2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_dmc_per_capita": "12.66",
+    "2017_gdp_per_capita": "2365.52"
+}
+
+{
+    "country": "Afghanistan",
+    "type": "rhGDPmf2010",
+    "indicator": "Economic Growth (GDP)",
+    "2010_mf_per_capita": "1.35",
+    "2010_gdp_per_capita": "543.30"
+}
+
+{
+    "country": "Bangladesh",
+    "type": "rhGDPmf2010",
+    "indicator": "Economic Growth (GDP)",
+    "2010_mf_per_capita": "2",
+    "2010_gdp_per_capita": "781.15"
+}
+
+{
+    "country": "Bhutan",
+    "type": "rhGDPmf2010",
+    "indicator": "Economic Growth (GDP)",
+    "2010_mf_per_capita": "9.08",
+    "2010_gdp_per_capita": "2258.19"
+}
+
+{
+    "country": "China",
+    "type": "rhGDPmf2010",
+    "indicator": "Economic Growth (GDP)",
+    "2010_mf_per_capita": "4.58",
+    "2010_gdp_per_capita": "785.50"
+}
+
+{
+    "country": "Combodia",
+    "type": "rhGDPmf2010",
+    "indicator": "Economic Growth (GDP)",
+    "2010_mf_per_capita": "16.05",
+    "2010_gdp_per_capita": "4550.45"
+}
+
+{
+    "country": "India",
+    "type": "rhGDPmf2010",
+    "indicator": "Economic Growth (GDP)",
+    "2010_mf_per_capita": "4.18",
+    "2010_gdp_per_capita": "1357.56"
+}
+
+{
+    "country": "Indonesia",
+    "type": "rhGDPmf2010",
+    "indicator": "Economic Growth (GDP)",
+    "2010_mf_per_capita": "5.62",
+    "2010_gdp_per_capita": "3122.36"
+}
+
+{
+    "country": "Lao PDR",
+    "type": "rhGDPmf2010",
+    "indicator": "Economic Growth (GDP)",
+    "2010_mf_per_capita": "5.23",
+    "2010_gdp_per_capita": "1140.60"
+}
+
+{
+    "country": "Malaysia",
+    "type": "rhGDPmf2010",
+    "indicator": "Economic Growth (GDP)",
+    "2010_mf_per_capita": "21.15",
+    "2010_gdp_per_capita": "9040.57"
+}
+
+{
+    "country": "Maldives",
+    "type": "rhGDPmf2010",
+    "indicator": "Economic Growth (GDP)",
+    "2010_mf_per_capita": "14.23",
+    "2010_gdp_per_capita": "7076.74"
+}
+
+{
+    "country": "Mongolia",
+    "type": "rhGDPmf2010",
+    "indicator": "Economic Growth (GDP)",
+    "2010_mf_per_capita": "9.88",
+    "2010_gdp_per_capita": "2643.29"
+}
+
+{
+    "country": "Myanmar",
+    "type": "rhGDPmf2010",
+    "indicator": "Economic Growth (GDP)",
+    "2010_mf_per_capita": "1.53",
+    "2010_gdp_per_capita": "1018.13"
+}
+
+{
+    "country": "Nepal",
+    "type": "rhGDPmf2010",
+    "indicator": "Economic Growth (GDP)",
+    "2010_mf_per_capita": "2.44",
+    "2010_gdp_per_capita": "592.40"
+}
+
+{
+    "country": "Pakistan",
+    "type": "rhGDPmf2010",
+    "indicator": "Economic Growth (GDP)",
+    "2010_mf_per_capita": "2.89",
+    "2010_gdp_per_capita": "987.41"
+}
+
+{
+    "country": "Philippines",
+    "type": "rhGDPmf2010",
+    "indicator": "Economic Growth (GDP)",
+    "2010_mf_per_capita": "4.25",
+    "2010_gdp_per_capita": "2217.47"
+}
+
+{
+    "country": "Thailand",
+    "type": "rhGDPmf2010",
+    "indicator": "Economic Growth (GDP)",
+    "2010_mf_per_capita": "2.83",
+    "2010_gdp_per_capita": "2799.65"
+}
+
+{
+    "country": "Sri Lanka",
+    "type": "rhGDPmf2010",
+    "indicator": "Economic Growth (GDP)",
+    "2010_mf_per_capita": "12.04",
+    "2010_gdp_per_capita": "5076.34"
+}
+
+{
+    "country": "Viet Nam",
+    "type": "rhGDPmf2010",
+    "indicator": "Economic Growth (GDP)",
+    "2010_mf_per_capita": "10.58",
+    "2010_gdp_per_capita": "1317.89"
+}
+
+{
+    "country": "Afghanistan",
+    "type": "rhGDPmf2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_mf_per_capita": "1.22",
+    "2017_gdp_per_capita": "519.89"
+}
+
+{
+    "country": "Bangladesh",
+    "type": "rhGDPmf2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_mf_per_capita": "2.36",
+    "2017_gdp_per_capita": "1563.77"
+}
+
+{
+    "country": "Bhutan",
+    "type": "rhGDPmf2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_mf_per_capita": "10.37",
+    "2017_gdp_per_capita": "3286.60"
+}
+
+{
+    "country": "China",
+    "type": "rhGDPmf2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_mf_per_capita": "3.62",
+    "2017_gdp_per_capita": "1385.26"
+}
+
+{
+    "country": "Combodia",
+    "type": "rhGDPmf2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_mf_per_capita": "20.88",
+    "2017_gdp_per_capita": "8879.44"
+}
+
+{
+    "country": "India",
+    "type": "rhGDPmf2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_mf_per_capita": "4.60",
+    "2017_gdp_per_capita": "1980.67"
+}
+
+{
+    "country": "Indonesia",
+    "type": "rhGDPmf2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_mf_per_capita": "6.25",
+    "2017_gdp_per_capita": "3837.58"
+}
+
+{
+    "country": "Lao PDR",
+    "type": "rhGDPmf2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_mf_per_capita": "7.53",
+    "2017_gdp_per_capita": "2423.85"
+}
+
+{
+    "country": "Malaysia",
+    "type": "rhGDPmf2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_mf_per_capita": "24.15",
+    "2017_gdp_per_capita": "10259.30"
+}
+
+{
+    "country": "Maldives",
+    "type": "rhGDPmf2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_mf_per_capita": "14.52",
+    "2017_gdp_per_capita": "9577.70"
+}
+
+{
+    "country": "Mongolia",
+    "type": "rhGDPmf2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_mf_per_capita": "13.86",
+    "2017_gdp_per_capita": "3669.41"
+}
+
+{
+    "country": "Myanmar",
+    "type": "rhGDPmf2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_mf_per_capita": "1.43",
+    "2017_gdp_per_capita": "1257.80"
+}
+
+{
+    "country": "Nepal",
+    "type": "rhGDPmf2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_mf_per_capita": "2.78",
+    "2017_gdp_per_capita": "1048.45"
+}
+
+{
+    "country": "Pakistan",
+    "type": "rhGDPmf2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_mf_per_capita": "3.19",
+    "2017_gdp_per_capita": "1464.93"
+}
+
+{
+    "country": "Philippines",
+    "type": "rhGDPmf2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_mf_per_capita": "4.40",
+    "2017_gdp_per_capita": "3123.25"
+}
+
+{
+    "country": "Thailand",
+    "type": "rhGDPmf2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_mf_per_capita": "4.11",
+    "2017_gdp_per_capita": "4076.75"
+}
+
+{
+    "country": "Sri Lanka",
+    "type": "rhGDPmf2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_mf_per_capita": "14.96",
+    "2017_gdp_per_capita": "6593.82"
+}
+
+{
+    "country": "Viet Nam",
+    "type": "rhGDPmf2017",
+    "indicator": "Economic Growth (GDP)",
+    "2017_mf_per_capita": "12.66",
+    "2017_gdp_per_capita": "2365.52"
+}
+
+

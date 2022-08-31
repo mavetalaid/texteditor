@@ -1,0 +1,308 @@
+[
+    {
+        "country":"Afghanistan",
+        "data":[
+            {
+                "year": 1992,
+                "value":49
+            },
+            {
+                "year": 2005,
+                "value":95
+            },
+            {
+                "year": 2015,
+                "value":305
+            }
+        ]
+    },
+    {
+        "country":"Bangladesh",
+        "data":[
+            {
+                "year": 1992,
+                "value":2358
+            },
+            {
+                "year": 2005,
+                "value":4427
+            },
+            {
+                "year": 2015,
+                "value":14939
+            }
+        ]
+    },
+    {
+        "country":"Bhutan",
+        "data":[
+            {
+                "year": 1992,
+                "value":62
+            },
+            {
+                "year": 2005,
+                "value":215
+            },
+            {
+                "year": 2015,
+                "value":525
+            }
+        ]
+    },
+    {
+        "country":"Cambodia",
+        "data":[
+            {
+                "year": 1992,
+                "value":136
+            },
+            {
+                "year": 2005,
+                "value":357
+            },
+            {
+                "year": 2015,
+                "value":1023
+            }
+        ]
+    },
+    {
+        "country":"China",
+        "data":[
+            {
+                "year": 1992,
+                "value":523
+            },
+            {
+                "year": 2005,
+                "value":2426
+            },
+            {
+                "year": 2015,
+                "value":11737
+            }
+        ]
+    },
+    {
+        "country":"India",
+        "data":[
+            {
+                "year": 1992,
+                "value":988
+            },
+            {
+                "year": 2005,
+                "value":2770
+            },
+            {
+                "year": 2015,
+                "value":7220
+            }
+        ]
+    },
+    {
+        "country":"Indonesia",
+        "data":[
+            {
+                "year": 1992,
+                "value":863
+            },
+            {
+                "year": 2005,
+                "value":1621
+            },
+            {
+                "year": 2015,
+                "value":4585
+            }
+        ]
+    },
+    {
+        "country":"Lao PDR",
+        "data":[
+            {
+                "year": 1992,
+                "value":53
+            },
+            {
+                "year": 2005,
+                "value":128
+            },
+            {
+                "year": 2015,
+                "value":624
+            }
+        ]
+    },
+    {
+        "country":"Malaysia",
+        "data":[
+            {
+                "year": 1992,
+                "value":1800
+            },
+            {
+                "year": 2005,
+                "value":4369
+            },
+            {
+                "year": 2015,
+                "value":9172
+            }
+        ]
+    },
+    {
+        "country":"Maldives",
+        "data":[
+            {
+                "year": 1992,
+                "value":5000
+            },
+            {
+                "year": 2005,
+                "value":6000
+            },
+            {
+                "year": 2015,
+                "value":7000
+            }
+        ]
+    },
+    {
+        "country":"Mongolia",
+        "data":[
+            {
+                "year": 1992,
+                "value":10
+            },
+            {
+                "year": 2005,
+                "value":19
+            },
+            {
+                "year": 2015,
+                "value":75
+            }
+        ]
+    },
+    {
+        "country":"Myanmar",
+        "data":[
+            {
+                "year": 1992,
+                "value":112
+            },
+            {
+                "year": 2005,
+                "value":217
+            },
+            {
+                "year": 2015,
+                "value":978
+            }
+        ]
+    },
+    {
+        "country":"Nepal",
+        "data":[
+            {
+                "year": 1992,
+                "value":262
+            },
+            {
+                "year": 2005,
+                "value":576
+            },
+            {
+                "year": 2015,
+                "value":1451
+            }
+        ]
+    },
+    {
+        "country":"Pakistan",
+        "data":[
+            {
+                "year": 1992,
+                "value":817
+            },
+            {
+                "year": 2005,
+                "value":1527
+            },
+            {
+                "year": 2015,
+                "value":3464
+            }
+        ]
+    },
+    {
+        "country":"Philippines",
+        "data":[
+            {
+                "year": 1992,
+                "value":1969
+            },
+            {
+                "year": 2005,
+                "value":3457
+            },
+            {
+                "year": 2015,
+                "value":9819
+            }
+        ]
+    },
+    {
+        "country":"Sri Lanka",
+        "data":[
+            {
+                "year": 1992,
+                "value":1841
+            },
+            {
+                "year": 2005,
+                "value":4515
+            },
+            {
+                "year": 2015,
+                "value":13029
+            }
+        ]
+    },
+    {
+        "country":"Thailand",
+        "data":[
+            {
+                "year": 1992,
+                "value":2262
+            },
+            {
+                "year": 2005,
+                "value":3706
+            },
+            {
+                "year": 2015,
+                "value":7855
+            }
+        ]
+    },
+    {
+        "country":"Viet Nam",
+        "data":[
+            {
+                "year": 1992,
+                "value":318
+            },
+            {
+                "year": 2005,
+                "value":1859
+            },
+            {
+                "year": 2015,
+                "value":6232
+            }
+        ]
+    }
+]

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>REGIONAL RESOURCE EFFICIENCY INDICATORS IN THE ASIA PACIFIC</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.png">
+
+    <link rel="stylesheet" href="css/materialdesignicons.min.css" />
+    <link rel="stylesheet" href="css/xplore.css" />
+    <link rel="stylesheet" href="css/app.css" />
+
+    <script type="text/javascript" src="js/xplore/xplore.js"></script>
+    <script type="text/javascript" src="js/xplore/xentities.js"></script>
+    <script type="text/javascript" src="js/xplore/xcanvas2d.js"></script>
+    <script type="text/javascript" src="js/xplore/xcanvas2dmodel.js"></script>
+    <script type="text/javascript" src="js/xplore/xcanvas2dgraphics.js"></script>
+    <script type="text/javascript" src="js/xplore/xchart.js"></script>
+
+    <script type="text/javascript" src="external/xlsx.full.min.js"></script>
+</head>
+
+<body>
+    <script>
+        var chart = new XChart.ColumnChart(VerticalDataSet());
+        chart.legendposition = XPOSITION.RIGHT;
+        chart.Show();
+
+        function VerticalDataSet() {
+            var dataset = new XChartDataSet();
+            var labelx = [];
+            for (var i = 0; i < 10; i++)
+                labelx.push((1979 + i).toString());
+            dataset.options = {
+                label: { x: "Years", y: "Number Sold (Thousands)" },
+                labels: { x: labelx }
+            };
+            //Apple
+            var data = new XChartData();
+            data.text = "Apple";
+            data.icon = "apple";
+            var properties = new XDrawProperties();
+            properties.fillcolor = "rgba(255, 150, 0, 1)";
+            properties.linecolor = properties.fillcolor;
+            data.properties = properties;
+            for (var i = 0; i < 10; i++)
+                data.list.push({ name: (1979 + i).toString(), value: Math.random() * 10 });
+            dataset.items.push(data);
+            //Strawberry
+            data = new XChartData();
+            data.text = "Strawberry";
+            data.icon = "bowling";
+            properties = new XDrawProperties();
+            properties.fillcolor = "rgba(0, 100, 0, 0.5)";
+            properties.linecolor = properties.fillcolor;
+            data.properties = properties;
+            for (var i = 0; i < 10; i++)
+                data.list.push({ name: "", value: Math.random() * 10 });
+            dataset.items.push(data);
+            //Pineapple
+            data = new XChartData();
+            data.text = "Pineapple";
+            data.icon = "camera-iris";
+            properties = new XDrawProperties();
+            properties.fillcolor = "rgba(0, 0, 255, 0.5)";
+            properties.linecolor = properties.fillcolor;
+            data.properties = properties;
+            for (var i = 0; i < 10; i++)
+                data.list.push({ name: "", value: Math.random() * 10 });
+            dataset.items.push(data);
+            //Mango
+            data = new XChartData();
+            data.text = "Mango";
+            data.icon = "file";
+            properties = new XDrawProperties();
+            properties.fillcolor = "rgba(255, 0, 255, 0.5)";
+            properties.linecolor = properties.fillcolor;
+            data.properties = properties;
+            for (var i = 0; i < 10; i++)
+                data.list.push({ name: "", value: Math.random() * 10 });
+            dataset.items.push(data);
+            return dataset;
+        }
+    </script>
+</body>
+
+</html>

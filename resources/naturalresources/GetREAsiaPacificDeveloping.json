@@ -1,0 +1,308 @@
+[
+    {
+        "country": "Afghanistan",
+        "data": [
+            {
+                "year":2010,
+                "value":14.9
+            },
+            {
+                "year":2015,
+                "value":20.27
+            },
+            {
+                "year":2018,
+                "value":21.42
+            }
+        ]
+    },
+    {
+        "country": "Bangladesh",
+        "data": [
+            {
+                "year":2010,
+                "value":14.9
+            },
+            {
+                "year":2015,
+                "value":20.27
+            },
+            {
+                "year":2018,
+                "value":21.42
+            }
+        ]
+    },
+    {
+        "country": "Bhutan",
+        "data": [
+            {
+                "year":2010,
+                "value":41.07
+            },
+            {
+                "year":2015,
+                "value":34.22
+            },
+            {
+                "year":2018,
+                "value":30.71
+            }
+        ]
+    },
+    {
+        "country": "Cambodia",
+        "data": [
+            {
+                "year":2010,
+                "value":68.52
+            },
+            {
+                "year":2015,
+                "value":64.92
+            },
+            {
+                "year":2018,
+                "value":61.84
+            }
+        ]
+    },
+    {
+        "country": "China",
+        "data": [
+            {
+                "year":2010,
+                "value":12.26
+            },
+            {
+                "year":2015,
+                "value":12.25
+            },
+            {
+                "year":2018,
+                "value":13.12
+            }
+        ]
+    },
+    {
+        "country": "India",
+        "data": [
+            {
+                "year":2010,
+                "value":41.11
+            },
+            {
+                "year":2015,
+                "value":34.4
+            },
+            {
+                "year":2018,
+                "value":31.69
+            }
+        ]
+    },
+    {
+        "country": "Indonesia",
+        "data": [
+            {
+                "year":2010,
+                "value":34.81
+            },
+            {
+                "year":2015,
+                "value":26.95
+            },
+            {
+                "year":2018,
+                "value":20.86
+            }
+        ]
+    },
+    {
+        "country": "Lao PDR",
+        "data": [
+            {
+                "year":2010,
+                "value":64.85
+            },
+            {
+                "year":2015,
+                "value":53.9
+            },
+            {
+                "year":2018,
+                "value":41.88
+            }
+        ]
+    },
+    {
+        "country": "Malaysia",
+        "data": [
+            {
+                "year":2010,
+                "value":1.96
+            },
+            {
+                "year":2015,
+                "value":3.41
+            },
+            {
+                "year":2018,
+                "value":5.31
+            }
+        ]
+    },
+    {
+        "country": "Maldives",
+        "data": [
+            {
+                "year":2010,
+                "value":1.36
+            },
+            {
+                "year":2015,
+                "value":1.38
+            },
+            {
+                "year":2018,
+                "value":1.12
+            }
+        ]
+    },
+    {
+        "country": "Mongolia",
+        "data": [
+            {
+                "year":2010,
+                "value":4.46
+            },
+            {
+                "year":2015,
+                "value":3.55
+            },
+            {
+                "year":2018,
+                "value":3.36
+            }
+        ]
+    },
+    {
+        "country": "Myanmar",
+        "data": [
+            {
+                "year":2010,
+                "value":84.87
+            },
+            {
+                "year":2015,
+                "value":70.66
+            },
+            {
+                "year":2018,
+                "value":60.11
+            }
+        ]
+    },
+    {
+        "country": "Nepal",
+        "data": [
+            {
+                "year":2010,
+                "value":87.29
+            },
+            {
+                "year":2015,
+                "value":85.04
+            },
+            {
+                "year":2018,
+                "value":75.04
+            }
+        ]
+    },
+    {
+        "country": "Pakistan",
+        "data": [
+            {
+                "year":2010,
+                "value":47.4
+            },
+            {
+                "year":2015,
+                "value":45.88
+            },
+            {
+                "year":2018,
+                "value":41.74
+            }
+        ]
+    },
+    {
+        "country": "Philippines",
+        "data": [
+            {
+                "year":2010,
+                "value":28.81
+            },
+            {
+                "year":2015,
+                "value":25.87
+            },
+            {
+                "year":2018,
+                "value":23.22
+            }
+        ]
+    },
+    {
+        "country": "Sri Lanka",
+        "data": [
+            {
+                "year":2010,
+                "value":61.85
+            },
+            {
+                "year":2015,
+                "value":52.89
+            },
+            {
+                "year":2018,
+                "value":51.4
+            }
+        ]
+    },
+    {
+        "country": "Thailand",
+        "data": [
+            {
+                "year":2010,
+                "value":22.66
+            },
+            {
+                "year":2015,
+                "value":22.65
+            },
+            {
+                "year":2018,
+                "value":23.72
+            }
+        ]
+    },
+    {
+        "country": "Vietnam",
+        "data": [
+            {
+                "year":2010,
+                "value":34.79
+            },
+            {
+                "year":2015,
+                "value":30.72
+            },
+            {
+                "year":2018,
+                "value":23.49
+            }
+        ]
+    }
+]

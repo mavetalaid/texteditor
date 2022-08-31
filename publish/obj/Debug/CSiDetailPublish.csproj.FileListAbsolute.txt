@@ -1,0 +1,8 @@
+D:\Programs\CSiBangkok\CSiDetail-New\Main\Main\CSiDetailSolutions\CSiDetailPublish\bin\Debug\CSiDetailPublish.exe.config
+D:\Programs\CSiBangkok\CSiDetail-New\Main\Main\CSiDetailSolutions\CSiDetailPublish\bin\Debug\CSiDetailPublish.exe
+D:\Programs\CSiBangkok\CSiDetail-New\Main\Main\CSiDetailSolutions\CSiDetailPublish\bin\Debug\CSiDetailPublish.pdb
+D:\Programs\CSiBangkok\CSiDetail-New\Main\Main\CSiDetailSolutions\CSiDetailPublish\obj\Debug\CSiDetailPublish.csproj.SuggestedBindingRedirects.cache
+D:\Programs\CSiBangkok\CSiDetail-New\Main\Main\CSiDetailSolutions\CSiDetailPublish\obj\Debug\CSiDetailPublish.csproj.CoreCompileInputs.cache
+D:\Programs\CSiBangkok\CSiDetail-New\Main\Main\CSiDetailSolutions\CSiDetailPublish\obj\Debug\CSiDetailPublish.exe
+D:\Programs\CSiBangkok\CSiDetail-New\Main\Main\CSiDetailSolutions\CSiDetailPublish\obj\Debug\CSiDetailPublish.pdb
+D:\Programs\CSiBangkok\CSiDetail-New\Main\Main\CSiDetailSolutions\CSiDetailPublish\obj\Debug\CSiDetailPublish.csproj.AssemblyReference.cache

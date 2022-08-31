@@ -1,0 +1,119 @@
+[
+    {
+        "country": "The world",
+        "data": [
+            {
+                "year": 2010,
+                "value": 10.96
+            },
+            {
+                "year": 2017,
+                "value": 12.17
+            }
+        ]
+    },
+    {
+        "country": "Rest of the World",
+        "data": [
+            {
+                "year": 2010,
+                "value": 11.365058427668
+            },
+            {
+                "year": 2017,
+                "value": 11.3866895619491
+            }
+        ]
+    },
+    {
+        "country": "Asia Pacific Industrial",
+        "data": [
+            {
+                "year": 2010,
+                "value": 11.2752988493444
+            },
+            {
+                "year": 2017,
+                "value": 10.8527541069421
+            }
+        ]
+    },
+    {
+        "country": "Asia Pacific Developing",
+        "data": [
+            {
+                "year": 2010,
+                "value": 10.5898614908632
+            },
+            {
+                "year": 2017,
+                "value": 12.9547067732332
+            }
+        ]
+    },
+    {
+        "country": "Singapore",
+        "data": [
+            {
+                "year": 2010,
+                "value": 29.75
+            },
+            {
+                "year": 2017,
+                "value": 32.63
+            }
+        ]
+    },
+    {
+        "country": "Republic of Korea",
+        "data": [
+            {
+                "year": 2010,
+                "value": 15.92
+            },
+            {
+                "year": 2017,
+                "value": 15.86
+            }
+        ]
+    },
+    {
+        "country": "New Zealand",
+        "data": [
+            {
+                "year": 2010,
+                "value": 22.42
+            },
+            {
+                "year": 2017,
+                "value": 24.17
+            }
+        ]
+    },
+    {
+        "country": "Japan",
+        "data": [
+            {
+                "year": 2010,
+                "value": 9.86
+            },
+            {
+                "year": 2017,
+                "value": 8.96
+            }
+        ]
+    },
+    {
+        "country": "Australia",
+        "data": [
+            {
+                "year": 2010,
+                "value": 40.67
+            },
+            {
+                "year": 2017,
+                "value": 37.93
+            }
+        ]
+    }
+]

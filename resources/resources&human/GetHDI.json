@@ -1,0 +1,128 @@
+[
+    {
+        "country": "Afghanistan",
+        "type": "rhHDIdmc2010",
+        "indicator": "Human Development Index (HDI)",
+        "y2010_dmc_per_capita": "2.07",
+        "y2010_hdi": "0.46"
+    },
+    {
+        "country": "Bangladesh",
+        "type": "rhHDIdmc2010",
+        "indicator": "Human Development Index (HDI)",
+        "y2010_dmc_per_capita": "2.4",
+        "y2010_hdi": "0.55"
+    },
+    {
+        "country": "Bhutan",
+        "type": "rhHDIdmc2010",
+        "indicator": "Human Development Index (HDI)",
+        "y2010_dmc_per_capita": "8.28",
+        "y2010_hdi": "0.57"
+    },
+    {
+        "country": "China",
+        "type": "rhHDIdmc2010",
+        "indicator": "Human Development Index (HDI)",
+        "y2010_dmc_per_capita": "6.08",
+        "y2010_hdi": "0.7"
+    },
+    {
+        "country": "Combodia",
+        "type": "rhHDIdmc2010",
+        "indicator": "Human Development Index (HDI)",
+        "y2010_dmc_per_capita": "19.26",
+        "y2010_hdi": "0.54"
+    },
+    {
+        "country": "India",
+        "type": "rhHDIdmc2010",
+        "indicator": "Human Development Index (HDI)",
+        "y2010_dmc_per_capita": "4.71",
+        "y2010_hdi": "0.58"
+    },
+    {
+        "country": "Indonesia",
+        "type": "rhHDIdmc2010",
+        "indicator": "Human Development Index (HDI)",
+        "y2010_dmc_per_capita": "7.54",
+        "y2010_hdi": "0.67"
+    },
+    {
+        "country": "Lao PDR",
+        "type": "rhHDIdmc2010",
+        "indicator": "Human Development Index (HDI)",
+        "y2010_dmc_per_capita": "8.38",
+        "y2010_hdi": "0.55"
+    },
+    {
+        "country": "Malaysia",
+        "type": "rhHDIdmc2010",
+        "indicator": "Human Development Index (HDI)",
+        "y2010_dmc_per_capita": "18.48",
+        "y2010_hdi": "0.77"
+    },
+    {
+        "country": "Maldives",
+        "type": "rhHDIdmc2010",
+        "indicator": "Human Development Index (HDI)",
+        "y2010_dmc_per_capita": "6.13",
+        "y2010_hdi": "0.67"
+    },
+    {
+        "country": "Mongolia",
+        "type": "rhHDIdmc2010",
+        "indicator": "Human Development Index (HDI)",
+        "y2010_dmc_per_capita": "24.15",
+        "y2010_hdi": "0.7"
+    },
+    {
+        "country": "Myanmar",
+        "type": "rhHDIdmc2010",
+        "indicator": "Human Development Index (HDI)",
+        "y2010_dmc_per_capita": "3.39",
+        "y2010_hdi": "0.52"
+    },
+    {
+        "country": "Nepal",
+        "type": "rhHDIdmc2010",
+        "indicator": "Human Development Index (HDI)",
+        "y2010_dmc_per_capita": "3.43",
+        "y2010_hdi": "0.53"
+    },
+    {
+        "country": "Pakistan",
+        "type": "rhHDIdmc2010",
+        "indicator": "Human Development Index (HDI)",
+        "y2010_dmc_per_capita": "3.89",
+        "y2010_hdi": "0.52"
+    },
+    {
+        "country": "Philippines",
+        "type": "rhHDIdmc2010",
+        "indicator": "Human Development Index (HDI)",
+        "y2010_dmc_per_capita": "4.11",
+        "y2010_hdi": "0.67"
+    },
+    {
+        "country": "Thailand",
+        "type": "rhHDIdmc2010",
+        "indicator": "Human Development Index (HDI)",
+        "y2010_dmc_per_capita": "3.86",
+        "y2010_hdi": "0.72"
+    },
+    {
+        "country": "Sri Lanka",
+        "type": "rhHDIdmc2010",
+        "indicator": "Human Development Index (HDI)",
+        "y2010_dmc_per_capita": "10.21",
+        "y2010_hdi": "0.75"
+    },
+    {
+        "country": "Viet Nam",
+        "type": "rhHDIdmc2010",
+        "indicator": "Human Development Index (HDI)",
+        "y2010_dmc_per_capita": "12.33",
+        "y2010_hdi": "0.65"
+    }
+]

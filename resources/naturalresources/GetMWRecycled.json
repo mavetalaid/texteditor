@@ -1,0 +1,144 @@
+[
+    {
+        "country": "Malaysia",
+        "data":[
+            {
+                "year":2010,
+                "value":0.543463
+            },
+            {
+                "year":2011,
+                "value":0.573228
+            },
+            {
+                "year":2012,
+                "value":0.1323239
+            },
+            {
+                "year":2013,
+                "value":1.580589
+            },
+            {
+                "year":2014,
+                "value":1.649074
+            },
+            {
+                "year":2015,
+                "value":2.048168
+            },
+            {
+                "year":2016,
+                "value":2.369781
+            },
+            {
+                "year":2017,
+                "value":2.865071
+            },
+            {
+                "year":2018,
+                "value":3.362327
+            },
+            {
+                "year":2019,
+                "value":3.880732
+            }
+        ]
+    },
+    {
+        "country": "Bangladesh",
+        "data":[
+            {
+                "year": 2014,
+                "data": 0.72626
+            }
+        ]
+    },
+    {
+        "country": "Bhutan",
+        "data":[
+            {
+                "year": 2012,
+                "data": 0.007507
+            },
+            {
+                "year": 2017,
+                "data": 0.006199
+            }
+        ]
+    },
+    {
+        "country": "Nepal",
+        "data":[
+            {
+                "year": 2012,
+                "data": 0.000256
+            }
+        ]
+    },
+    {
+        "country": "Singapore",
+        "data":[
+            {
+                "year":2010,
+                "value":3.707
+            },
+            {
+                "year":2011,
+                "value":3.9998
+            },
+            {
+                "year":2012,
+                "value":4.289799
+            },
+            {
+                "year":2013,
+                "value":4.8257
+            },
+            {
+                "year":2014,
+                "value":4.471299
+            },
+            {
+                "year":2015,
+                "value":4.6497
+            },
+            {
+                "year":2016,
+                "value":4.769
+            },
+            {
+                "year":2017,
+                "value":4.724
+            },
+            {
+                "year":2018,
+                "value":4.726
+            },
+            {
+                "year":2019,
+                "value":4.247
+            }
+        ]
+    },
+    {
+        "country": "Thailand",
+        "data":[            
+            {
+                "year":2014,
+                "value":5.02
+            },
+            {
+                "year":2015,
+                "value":4.78
+            },
+            {
+                "year":2016,
+                "value":5.161
+            },
+            {
+                "year":2017,
+                "value":6.156
+            }
+        ]
+    }
+]

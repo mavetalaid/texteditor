@@ -1,0 +1,308 @@
+[
+    {
+        "country": "Viet Nam",
+        "data": [
+            {
+                "sector": "Domiestic",
+                "value":1.47
+            },
+            {
+                "sector": "Industry",
+                "value":3.75
+            },
+            {
+                "sector": "Agriculture",
+                "value":94.78
+            }
+        ]
+    },
+    {
+        "country": "Thailand",
+        "data": [
+            {
+                "sector": "Domiestic",
+                "value":4.78
+            },
+            {
+                "sector": "Industry",
+                "value":4.85
+            },
+            {
+                "sector": "Agriculture",
+                "value":90.37
+            }
+        ]
+    },
+    {
+        "country": "Sri Lanka",
+        "data": [
+            {
+                "sector": "Domiestic",
+                "value":6.22
+            },
+            {
+                "sector": "Industry",
+                "value":6.42
+            },
+            {
+                "sector": "Agriculture",
+                "value":87.36
+            }
+        ]
+    },
+    {
+        "country": "Philippines",
+        "data": [
+            {
+                "sector": "Domiestic",
+                "value":9.26
+            },
+            {
+                "sector": "Industry",
+                "value":14.69
+            },
+            {
+                "sector": "Agriculture",
+                "value":76.05
+            }
+        ]
+    },
+    {
+        "country": "Pakistan",
+        "data": [
+            {
+                "sector": "Domiestic",
+                "value":5.26
+            },
+            {
+                "sector": "Industry",
+                "value":0.76
+            },
+            {
+                "sector": "Agriculture",
+                "value":93.98
+            }
+        ]
+    },
+    {
+        "country": "Nepal",
+        "data": [
+            {
+                "sector": "Domiestic",
+                "value":1.55
+            },
+            {
+                "sector": "Industry",
+                "value":0.31
+            },
+            {
+                "sector": "Agriculture",
+                "value":98.14
+            }
+        ]
+    },
+    {
+        "country": "Myanmar",
+        "data": [
+            {
+                "sector": "Domiestic",
+                "value":9.95
+            },
+            {
+                "sector": "Industry",
+                "value":1.49
+            },
+            {
+                "sector": "Agriculture",
+                "value":88.56
+            }
+        ]
+    },
+    {
+        "country": "Mongolia",
+        "data": [
+            {
+                "sector": "Domiestic",
+                "value":11.90
+            },
+            {
+                "sector": "Industry",
+                "value":34.91
+            },
+            {
+                "sector": "Agriculture",
+                "value":53.19
+            }
+        ]
+    },
+    {
+        "country": "Maldives",
+        "data": [
+            {
+                "sector": "Domiestic",
+                "value":94.92
+            },
+            {
+                "sector": "Industry",
+                "value":5.08
+            },
+            {
+                "sector": "Agriculture",
+                "value":0.00
+            }
+        ]
+    },
+    {
+        "country": "Malaysia",
+        "data": [
+            {
+                "sector": "Domiestic",
+                "value":24.45
+            },
+            {
+                "sector": "Industry",
+                "value":29.90
+            },
+            {
+                "sector": "Agriculture",
+                "value":45.65
+            }
+        ]
+    },
+    {
+        "country": "Lao PDR",
+        "data": [
+            {
+                "sector": "Domiestic",
+                "value":1.84
+            },
+            {
+                "sector": "Industry",
+                "value":2.41
+            },
+            {
+                "sector": "Agriculture",
+                "value":95.75
+            }
+        ]
+    },
+    {
+        "country": "Indonesia",
+        "data": [
+            {
+                "sector": "Domiestic",
+                "value":10.35
+            },
+            {
+                "sector": "Industry",
+                "value":5.27
+            },
+            {
+                "sector": "Agriculture",
+                "value":84.38
+            }
+        ]
+    },
+    {
+        "country": "India",
+        "data": [
+            {
+                "sector": "Domiestic",
+                "value":7.36
+            },
+            {
+                "sector": "Industry",
+                "value":2.23
+            },
+            {
+                "sector": "Agriculture",
+                "value":90.41
+            }
+        ]
+    },
+    {
+        "country": "China",
+        "data": [
+            {
+                "sector": "Domiestic",
+                "value":12.80
+            },
+            {
+                "sector": "Industry",
+                "value":22.84
+            },
+            {
+                "sector": "Agriculture",
+                "value":64.37
+            }
+        ]
+    },
+    {
+        "country": "Cambodia",
+        "data": [
+            {
+                "sector": "Domiestic",
+                "value":4.49
+            },
+            {
+                "sector": "Industry",
+                "value":1.51
+            },
+            {
+                "sector": "Agriculture",
+                "value":94.00
+            }
+        ]
+    },
+    {
+        "country": "Bhutan",
+        "data": [
+            {
+                "sector": "Domiestic",
+                "value":5.03
+            },
+            {
+                "sector": "Industry",
+                "value":0.89
+            },
+            {
+                "sector": "Agriculture",
+                "value":94.08
+            }
+        ]
+    },
+    {
+        "country": "Bangladesh",
+        "data": [
+            {
+                "sector": "Domiestic",
+                "value":10.04
+            },
+            {
+                "sector": "Industry",
+                "value":2.15
+            },
+            {
+                "sector": "Agriculture",
+                "value":87.82
+            }
+        ]
+    },
+    {
+        "country": "Afghanistan",
+        "data": [
+            {
+                "sector": "Domiestic",
+                "value":1.00
+            },
+            {
+                "sector": "Industry",
+                "value":0.83
+            },
+            {
+                "sector": "Agriculture",
+                "value":98.17
+            }
+        ]
+    }
+]

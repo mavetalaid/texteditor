@@ -1,0 +1,455 @@
+{    
+    "type" : "nrasiapacific",
+    "title" : "Domestic material consumption, the Asia Pacific region (2010 – 2017)",
+    "unit" : "Million tones"
+}
+
+{    
+    "type" : "nrasiapacificworld",
+    "title" : "Domestic material consumption, the Asia Pacific region, and rest of world (2010 –2017)",
+    "unit" : "Million tones"
+}
+
+{    
+    "type" : "nrasiapacificdeveloping",
+    "title" : "Domestic material consumption by material category, Asia Pacific developing countries (2010 – 2017)",
+    "unit" : "Million tones"
+}
+
+{    
+    "type" : "nrasiapacificmaterial",
+    "title" : "Domestic material consumption by material category, the Asia Pacific developing countries (2010 – 2017)",
+    "unit" : "metric tons per capita"
+}
+
+{    
+    "type" : "nrasiapacificindustrialized",
+    "title" : "Domestic material consumption by material category, the Asia Pacific industrialized countries (2010 – 2017)",
+    "unit" : "metric tons per capita"
+}
+
+{    
+    "type" : "reasiapacificworld",
+    "title" : "Renewable energy share in the total final energy consumption, Asia Pacific region, and World (2000-2018)",
+    "unit" : "Percentage (%)"
+}
+
+{    
+    "type" : "reasiapacificdeveloping",
+    "title" : "Renewable energy share in the total final energy consumption, the Asia Pacific developing countries",
+    "unit" : "metric tons per capita"
+}
+
+{    
+    "type" : "totalwaterasiapacific",
+    "title" : "Total water withdrawals, Asia Pacific region (2010-2017)",
+    "unit" : "billion cubic metre"
+}
+
+{    
+    "type" : "watersecasiapacific",
+    "title" : "Water withdrawals, by sector in the Asia Pacific region (2015).",
+    "unit" : "Percentage (%)"
+}
+
+{    
+    "type" : "watercapitaasiapacific",
+    "title" : "Water withdrawals per capita, Asia Pacific developing countries (2010, 2017)",
+    "unit" : "water/capita"
+}
+
+{    
+    "type" : "waterintensityasiapacific",
+    "title" : "Water intensity in Asia Pacific region (2010, 2017)",
+    "unit" : "water/intensity (liter/$)"
+}
+
+{    
+    "type" : "agriwaterasiapacific",
+    "title" : "Agricultural water withdrawal, Asia Pacific region (2010-2017).",
+    "unit" : "billion cubic metre"
+}
+
+{    
+    "type" : "waterasiapacific",
+    "title" : "Water footprint, Asia Pacific region (2010, 2015).",
+    "unit" : "billion cubic metre"
+}
+
+{    
+    "type" : "waterFPAsiaPacific",
+    "title" : "Water footprint per capita Asia Pacific developing countries (2010, 2015).",
+    "unit" : "cubic metres per capita"
+}
+
+
+{    
+    "type" : "totalland",
+    "title" : "Total land use (urban, forest, agriculture) area of Asia Pacific region (1992-2015).",
+    "unit" : "unknown"
+}
+
+{    
+    "type" : "totallandcapita",
+    "title" : "Total land use (urban, forest, agriculture) per capita of Asia Pacific region",
+    "unit" : "land use by capita (ha/cap)"
+}
+
+{    
+    "type" : "landsector2015",
+    "title" : " Land use, by sector in the Asia Pacific region (2015).",
+    "unit" : "Land use by sector (Millions hectare)"
+}
+
+{    
+    "type" : "landintensity",
+    "title" : "Land use intensity Asia Pacific region (1992, 2005, and 2015)",
+    "unit" : "liter per $"
+}
+
+{    
+    "type" : "landproductivity",
+    "title" : "Land productivity for Asia Pacific (1992-2015).",
+    "unit" : "Thousands $ per hectare"
+}
+
+{    
+    "type" : "landmajorsector",
+    "title" : "Land use by major sector (Agriculture)",
+    "unit" : "million ha"
+}
+
+{    
+    "type" : "ghgemissions",
+    "title" : "Total GHG emissions for the Asia Pacific region (2010 - 2015).",
+    "unit" : "metric tonnes of CO2-eq"
+}
+
+{    
+    "type" : "ghgresultagri",
+    "title" : "GHG resulting from agriculture for the Asia Pacific region (2010 - 2050).",
+    "unit" : "million metric tonnes of CO2-eq"
+}
+
+{    
+    "type" : "ghgcompare",
+    "title" : "Comparison between GHG total emissions and GHG contribution from agriculture in the Asia Pacific (2010 - 2015)",
+    "unit" : "unknown"
+}
+
+{    
+    "type" : "ghgco2",
+    "title" : "CO2 emissions from fuel combustion for the Asia Pacific (2010 – 2017).",
+    "unit" : "Metric tonnes of CO2-eq"
+}
+
+{    
+    "type" : "ghgintensity",
+    "title" : "GHG intensity (kg per GDP) for Asia Pacific (2010 – 2018).",
+    "unit" : "kg per GDP"
+}
+
+{    
+    "type" : "cereal",
+    "title" : "Cereal yield (land productivity) in The Asia Pacific (2010 – 2018). ",
+    "unit" : "kg per hectare"
+}
+
+{    
+    "type" : "compareagri",
+    "title" : "Comparison of agriculture value added per worker in The Asia Pacific between 2010 & 2019.",
+    "unit" : "Billion US Dollars"
+}
+
+{    
+    "type" : "agriasiapacific",
+    "title" : "Value of agricultural product in The Asia Pacific (2010 -2018).",
+    "unit" : "Million US Dollars"
+}
+
+{    
+    "type" : "mwcollected",
+    "title" : "Municipal waste collected in Asia Pacific countries (2010 - 2019).",
+    "unit" : "Million tonnes"
+}
+
+{    
+    "type" : "mwcove",
+    "title" : "Municipal waste collection coverage in cities within the Asia Pacific region (2011 - 2018).",
+    "unit" : "Percentage (%)"
+}
+
+{    
+    "type" : "mwrecycled",
+    "title" : "Municipal waste recycled by Asia Pacific countries (2010 - 2019).",
+    "unit" : "Tonnes"
+}
+
+{    
+    "type" : "hwgenerated",
+    "title" : "Hazardous waste generated by Asia Pacific countries (2010 - 2019).",
+    "unit" : "Million tonnes"
+}
+
+{    
+    "type" : "hwincinerated",
+    "title" : "Hazardous waste incinerated by Asia Pacific countries (2010 - 2017).",
+    "unit" : "Thousand tonnes"
+}
+
+{    
+    "type" : "ghgemissionEnergy",
+    "title" : " GHG emissions of the energy sector, Asia Pacific region, and World.",
+    "unit" : "Mt of CO2"
+}
+
+{    
+    "type" : "remiasiapacificworld",
+    "title" : "Material intensity for the Asia Pacific, and World groupings (2010-2017)",
+    "unit" : "kg/US$"
+}
+
+{    
+    "type" : "remiasiapacificdeveloping",
+    "title" : "Material intensity for the Asia Pacific developing countries (2010, 2017)",
+    "unit" : "kg/US$"
+}
+
+{    
+    "type" : "remiasiapacificindustry",
+    "title" : "Material intensity for the Asia Pacific industrialized countries (2010, 2017)",
+    "unit" : "kg/US$"
+}
+
+{    
+    "type" : "eigdpasiapacificworld",
+    "title" : "Energy intensity of Asia Pacific and World (1990-2018)",
+    "unit" : "toe/thousand 2015 USD"
+}
+
+{    
+    "type" : "eiasiapacificdeveloping",
+    "title" : "Energy intensity for Asia Pacific developing countries (2010, 2015, 2018)",
+    "unit" : "toe/thousand 2015 USD"
+}
+
+{    
+    "type" : "co2asiapacific",
+    "title" : "CO2 intensity of energy mix in Asia Pacific region.",
+    "unit" : "t CO2/toe"
+}
+
+{    
+    "type" : "cbmfasiapacificdeveloping",
+    "title" : "Material footprint, the Asia Pacific developing countries (2010-2017).",
+    "unit" : "Million tones"
+}
+
+{    
+    "type" : "cbmfasiapacificworld",
+    "title" : "Material footprint, the Asia Pacific region, and the rest of the world (2010-2017)",
+    "unit" : "Million tones"
+}
+
+{    
+    "type" : "cbmfcompared",
+    "title" : "Material footprint compared to domestic material consumption for Asia Pacific developing and industrial countries, and rest of the world (2010, 2017).",
+    "unit" : "Million tones"
+}
+
+{    
+    "type" : "cbmfcAsiaPacificDeveloping",
+    "title" : "Material footprint per capita compared to domestic material consumption per capita, the Asia Pacific developing countries (2010, 2017).",
+    "unit" : "metric tons per capita"
+}
+
+{    
+    "type" : "cbmfcAsiaPacificIndustralized",
+    "title" : "Material footprint per capita compared to domestic material consumption per capita, Asia Pacific industrialized countries (2010, 2017).",
+    "unit" : "metric tons per capita"
+}
+
+{    
+    "type" : "tdptbmaterialcategory",
+    "title" : "Physical trade balance by material category, Asia Pacific countries and rest of the world (2010 to 2017)",
+    "unit" : "Million tones"
+}
+
+{    
+    "type" : "tdptbCSIRO",
+    "title" : "CSIRO (2017). Global Material Flows Database. United Nations Environment Programme International Resource Panel Global Material Flows Database. Available at: https://materialflows.csiro.au/forms/form-material-flows-world.aspx",
+    "unit" : "Million tones"
+}
+
+{    
+    "type" : "tdptbAsiaPacific",
+    "title" : "Physical trade balance, Asia Pacific countries (2010 to 2017)",
+    "unit" : "Million tones"
+}
+
+{    
+    "type" : "tdptbAsiaPacificWorld",
+    "title" : "Physical trade balance, Asia Pacific countries and rest of world (2010 to 2017)",
+    "unit" : "Billion US dollars"
+}
+
+{    
+    "type" : "tdptbcapitaasiapacificworld",
+    "title" : "Physical trade balance per capita, Asia Pacific regions and rest of world (2010, 2013, and 2017).",
+    "unit" : "tonnes per capita"
+}
+
+{    
+    "type" : "tdupiasiapacificdeveloping",
+    "title" : "Unit prices of imports for Asia Pacific developing countries (2010, 2013, and 2017).",
+    "unit" : "$ per kg"
+}
+
+{    
+    "type" : "tdupeasiapacificdeveloping",
+    "title" : "Unit prices of exports for Asia Pacific developing countries (2010, 2013, and 2017).",
+    "unit" : "$ per kg"
+}
+
+{    
+    "type" : "rhHDIdmc2010",
+    "title" : "The relationship between material use (DMC per capita), and material footprint (MF per capita) vresus the GDP per capita (2010, 2017)",
+    "unit" : "HDI, DMC per capita (tonnes)"
+}
+
+{    
+    "type" : "rhHDImf2010",
+    "title" : "The relationship between material use (DMC per capita), and material footprint (MF per capita) vresus the GDP per capita (2010, 2017)",
+    "unit" : "HDI, MF per capita (tonnes)"
+}
+
+{    
+    "type" : "rhHDIdmc2017",
+    "title" : "The relationship between material use (DMC per capita), and material footprint (MF per capita) vresus the human development index (HDI) (2010, 2017).",
+    "unit" : "HDI, DMC per capita (tonnes)"
+}
+
+{    
+    "type" : "rhHDImf2017",
+    "title" : "The relationship between material use (DMC per capita), and material footprint (MF per capita) vresus the human development index (HDI) (2010, 2017).",
+    "unit" : "HDI, MF per capita (tonnes)"
+}
+
+{    
+    "type" : "rhGDPdmc2010",
+    "title" : "The relationship between material use (DMC per capita), and material footprint (MF per capita) vresus the GDP per capita (2010, 2017)",
+    "unit" : "GDP per capita ($/capita), DMC per capita (tonnes/capita)"
+}
+
+{    
+    "type" : "rhGDPdmc2017",
+    "title" : "The relationship between material use (DMC per capita), and material footprint (MF per capita) vresus the human development index (HDI) (2010, 2017).",
+    "unit" : "GDP per capita ($/capita), DMC per capita (tonnes/capita)"
+}
+
+{    
+    "type" : "rhGDPmf2010",
+    "title" : "The relationship between material use (DMC per capita), and material footprint (MF per capita) vresus the GDP per capita (2010, 2017)",
+    "unit" : "GDP per capita ($/capita), MF per capita (tonnes/capita)"
+}
+
+{    
+    "type" : "rhGDPmf2017",
+    "title" : "The relationship between material use (DMC per capita), and material footprint (MF per capita) vresus the GDP per capita (2010, 2017)",
+    "unit" : "GDP per capita ($/capita), MF per capita (tonnes/capita)"
+}
+
+
+{    
+    "type" : "rhfdiIndiaChina",
+    "title" : "Foreign direct investment in India and China (1990-2019)",
+    "unit" : "Billion US dollars"
+}
+
+{    
+    "type" : "rhfdiAsiaPacific",
+    "title" : "Foreign direct investment in remaining countries (except India and China) in Asia Pacific region.",
+    "unit" : "Billion US dollars"
+}
+
+{    
+    "type" : "rhgggasiapacificdeveloping",
+    "title" : "The general government gross debt of developing countries in Asia Pacific region.",
+    "unit" : "Percent of GDP"
+}
+
+{    
+    "type" : "rhirasiapacificdeveloping",
+    "title" : "Inflation rate of the developing countries in Asia Pacific region.",
+    "unit" : "Average consumer prices (Annual percent change)"
+}
+
+{    
+    "type" : "rhaeasiapacific",
+    "title" : "Access to percentage of population to electricity in Asia Pacific region, 2000-2019",
+    "unit" : "% of population"
+}
+
+{    
+    "type" : "rhawater",
+    "title" : "Access to percentage of population to drinking water services, 2000-2020.",
+    "unit" : "% of population"
+}
+
+{    
+    "type" : "rhasanitation",
+    "title" : "Access to percentage of population to sanitation services, 2000-2020.",
+    "unit" : "% of population"
+}
+
+{    
+    "type" : "igrCovid",
+    "title" : "Country fiscal measures in response to the COVID-19 since January 2020.",
+    "unit" : "Percent of 2020 GDP"
+}
+
+{    
+    "type" : "igrNaturalCapital",
+    "title" : "Natural capital of some countries in Asia pacific region.",
+    "unit" : "Thousands constant 2014 USD"
+}
+
+{    
+    "type" : "igrTotalGreenRecovery",
+    "title" : "Green, recovery and total spending in Asia Pacific region.",
+    "unit" : "USD per Capita"
+}
+
+{    
+    "type" : "igrGreenEnergySubregion",
+    "title" : "Clean energy and climate mitigation investments by subregion and country, 2005–2019 (ADB, 2021).",
+    "unit" : "Percentage (%)"
+}
+
+{    
+    "type" : "igrGreenEnergyCountry",
+    "title" : "Clean energy and climate mitigation investments by subregion and country, 2005–2019 (ADB, 2021).",
+    "unit" : "Percentage (%)"
+}
+
+{    
+    "type" : "igrElectric",
+    "title" : "Electricity demand from the global EV-fleet by country or region-2030 (IEA, 2021, April 27)",
+    "unit" : "TWh"
+}
+
+{    
+    "type" : "igrFinancial",
+    "title" : "Financial and technical assistance committed to developing economies in Asia Pacific region, average 2010-2019 (constant 2019 $ million).",
+    "unit" : ""
+}
+
+
+{    
+    "type" : "igrBiofuelProduction",
+    "title" : "Biofuel production in 2019 compared to consumption in 2030 under the sustainable development scenario (IEA, 2020, March 27)",
+    "unit" : "Mtoe"
+}
+
+
+
